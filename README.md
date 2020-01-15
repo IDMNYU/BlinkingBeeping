@@ -17,7 +17,7 @@ _Course Website_: https://idmnyu.github.io/BlinkingBeeping/
 
 _Prerequisite_: None
 
-## **Welcome to Blinking Beeping Moving Sensing !**
+### **Welcome to Blinking Beeping Moving Sensing!**
 
 This course is an intorductory course in physical computing, with a emphasis on unusual physical interaction- that is, input and putput. We'll use microcontrollers, lights, speakers, buttons, sensors, and actuators like motors to physicalize digital processes, not just push a bunch of pixels on screen.  
 
