@@ -1,4 +1,4 @@
-## Blinking Beeping Moving Sensing 
+## Blinking Beeping Moving Sensing DM-UY 4913 F
 
 **NYU Tandon School of Engineering**
 
@@ -6,9 +6,7 @@
 
 Spring 2020 • 3 credit hrs
 
-_Instructor_: 
-
-[Scott Fitzgerald](http://ennuigo.com), shf220@nyu.edu 
+_Instructor_:  [Scott Fitzgerald](http://ennuigo.com), shf220@nyu.edu 
 
 _Location_: Fridays 12:30-4:10pm • 370 Jay Street Room 309
 
