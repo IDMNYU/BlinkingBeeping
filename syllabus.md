@@ -1,4 +1,3 @@
----
 ## Blinking Beeping Moving Sensing 
 
 **NYU Tandon School of Engineering**
@@ -19,5 +18,3 @@ If you cannot make this due to class or work conflicts, contact me by email.
 _Website_ : https://idmnyu.github.io/BlinkingBeeping/
 
 _Prerequisite_: None
-
----
