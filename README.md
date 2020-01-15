@@ -66,15 +66,11 @@ total |  100
 
 ##### QUALITATIVE GRADING OVERVIEW
 
-###### **A. Excellent \(90-100\)**
-
-###### **B. Very Good / Good \(80-89\)**
-
-###### **C. Satisfactory \(70-79\)**
-
-###### **D. Poor; Below Average \(60-69\)**
-
-###### **F. Unacceptable \(59 & Below\)**
+- **A. Excellent \(90-100\)**
+- **B. Very Good / Good \(80-89\)**
+- **C. Satisfactory \(70-79\)**
+- **D. Poor; Below Average \(60-69\)**
+- **F. Unacceptable \(59 & Below\)**
 
 ##### **Attendance and Assignments**
 
