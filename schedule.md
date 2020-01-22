@@ -23,7 +23,8 @@
 * Serial communication
 
 # Week 7 - Friday March 13
-* Midterm project presentations
+* Midterm project presentations or
+* Open Hardware Summit
 
 # Spring Break
 
