@@ -16,18 +16,8 @@
       <header>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+      {% include nav.html %}
 
-        <p><a href="http://idmnyu.github.io/BlinkingBeeping">Home</a>
-        <br>
-          
-        <a href="http://idmnyu.github.io/BlinkingBeeping/doc/md/overview.html">Library overview</a>
-        <br>
-        <a href="http://idmnyu.github.io/BlinkingBeeping/doc/html/index.html">Reference manual</a>
-        <br>
-        <a href="http://idmnyu.github.io/BlinkingBeeping/doc/md/examples.html">Example programs</a>
-        <br>
-          
-        </p>
 
 
         {% if site.github.is_project_page %}
