@@ -1,7 +1,8 @@
 **Materials you need for class**
 * [half-size breadboard](https://www.adafruit.com/product/64) $5.00
-* [microcontroller](https://store.arduino.cc/usa/nano-every-with-headers) The Arduino Nano Every has all the functionality you need. If you already have a microcontoller you'd like to use, it's probably fine, but please check with me first. There are other boards that have other capabilities (wireless connections, built-in sensors, etc.), if you;re curious, please ask and I can help you figure out what is best. $11.90
+* [microcontroller](https://store.arduino.cc/usa/nano-every-with-headers) The Arduino Nano Every has all the functionality you need. If you already have a microcontoller you'd like to use, it's probably fine, but please check with me first. There are other boards that have other capabilities (wireless connections, built-in sensors, etc.), if you're curious, please ask and I can help you figure out what is best. $11.90
 * [USB cable](https://www.adafruit.com/product/592) The Arduino Nano Every uses a USB micro connector. If you're using a different board, get the USB cable that's appropriate. This is for powering and programming your board. $2.95
+* [Male to Male wires](https://www.adafruit.com/product/153) These are great for quickly prototyping.
 
 **Where to buy stuff**
 * [Arduino store](https://store.arduino.cc/usa/)
