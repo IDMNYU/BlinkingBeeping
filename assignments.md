@@ -3,6 +3,6 @@
 ## Final
 
 ## Weekly assignments
-Blog post, documentation, etc
+Blog post, documentation, readings
 
 ## Research assignment
