@@ -51,6 +51,9 @@ This class will consist of
 * Talk to me in person directly after class, come by office hours \(Wed 3:30-5pm\), or set up an appointment about issues and problems.
 
 ### **EVALUATION & GRADING**
+you are expected to keep a class journal on our wiki. This will be your repository for research, thoughts and reactions to the readings, documentation of your projects, and a place for you to comment and critique each other’s work. 
+
+You must dicument your work online with text, photos, sketches, code, videos, and audio files as approriate. This is not only for your weekly production assignments, but also process documentation for the midterm and final projects.
 
 ##### QUANTITATIVE GRADING OVERVIEW
 
@@ -79,7 +82,7 @@ total |  100
 * Be on Time. Tardiness will affect your grade. For every 10 minutes of tardiness, your final, numerical grade will drop by 0.5 percent. 
 * Contact the professor at least 24h in advance by email if you will not be in class. 
 * absence to observe religious holidays will not be penalized, however the students should give prior notice as described above. 
-* if you miss class because of illness or personal issue, let me know immediately via email. **You must submit documentation to Deanna Rayment at deanna.rayment@nyu.edu.** Until I receive notification from her, your absense will be considered unexcused. 
+* if you miss class because of illness or personal issue, let me know immediately via email. **You must also submit documentation to Deanna Rayment at deanna.rayment@nyu.edu.** Until I receive notification from her, any absence will be considered unexcused. 
 * Late assignments will be penalized by 1/2 grade point for each day past due date. 
 
 ### **ACADEMIC HONESTY**
