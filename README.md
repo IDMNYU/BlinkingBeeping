@@ -45,6 +45,22 @@ This class will consist of
 * In-class Peer Critiques
 * Project Presentations and Critique
 
+##### Required Reading
+All readings will be provided as PDFs or online links.
+
+##### Required Hardware
+You need to have, at minimum, the following items before class on Feb 7:
+* [half-size breadboard](https://www.adafruit.com/product/64) $5.00
+* [microcontroller](https://store.arduino.cc/usa/nano-every-with-headers) The Arduino Nano Every has all the functionality you need. If you already have a microcontoller you'd like to use, it's probably fine, but please check with me first. There are other boards that have other capabilities (wireless connections, built-in sensors, etc.), if you're curious, please ask and I can help you figure out what is best. $11.90
+* [USB cable](https://www.adafruit.com/product/592) The Arduino Nano Every uses a USB micro connector. If you're using a different board, get the USB cable that's appropriate. This is for powering and programming your board. $2.95
+* [Male to Male wires](https://www.adafruit.com/product/153) These are great for quickly prototyping.
+
+You may wind up spending money on this course for sensors, actuators, equipment, etc. Always discuss your intentions with the instructor before purchasing anything.
+
+The IDM Proto Lab will have a bunch of basics for you to work with : LEDs, wire, resistors, transistors, capacitors, etc. You are free to use these tools, but if you’re going to be building something of significant scope, you should get your own materials.
+
+If you get really into prototyping with electronics, you can get some hand tools and other equipment, but again, it’s best to ask about what you need.
+
 ### **COMMUNICATING WITH THE PROFESSOR OUTSIDE OF CLASS**
 
 * EMAIL ME - however if your email is more than a paragraph we should probably be meeting in person.
@@ -66,7 +82,6 @@ attendance | 13
 class participation | 10
 total |  100
 
-
 ##### QUALITATIVE GRADING OVERVIEW
 
 - **A. Excellent \(90-100\)**
@@ -87,12 +102,10 @@ total |  100
 
 ### **ACADEMIC HONESTY**
 
-Please review [NYU's School of Engineering's academic dishonesty policy](http://engineering.nyu.edu/academics/code-of-conduct/academic-dishonesty) in its entirety.
+Please review [NYU's School of Engineering's academic dishonesty policy](https://engineering.nyu.edu/campus-and-community/student-life/office-student-affairs/policies/student-code-conduct) in its entirety.
 
-All work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words, media, or ideas of another as one’s own work in any academic exercise, is absolutely unacceptable. Any student who commits plagiarism must re-do the assignment for a grade no higher than a D. D is also the highest possible course grade for any student who commits plagiarism. Please use the MLA or Chicago Manual of Style for citing and documenting source material.
-
-You MUST have complete rights of use to any and all materials which appear in your thesis project. This includes images, illustrations, audio etc. The source of any materials NOT created by you MUST be properly cited. Please remember that you can collaborate with other students to create your own media or contact the authors of your media selections for rights. I strongly encourage you to use original media for your thesis project, however should you absolutely require to use stock images, video, etc., you will need to provide a PDF of all source files and the usage rights you have purchased/negotiated or whether it is creative commons or copyright free.
+All work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words, media, or ideas of another as one’s own work in any academic exercise, is absolutely unacceptable. This is not only for prose, but includes code- if you're using someone elses' code, it must be properly attributed int he comments. This includes acknowledging the original author (if known) and where to code was found.
 
 ### **ACADEMIC ACCOMMODATIONS**
 
-If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu. You must be registered with CSD to receive accommodations. Information about the Moses Center can be found at[http://www.nyu.edu/csd](http://www.nyu.edu/csd). The Moses Center is located at 726 Broadway on the 2nd floor.
+If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu. You must be registered with CSD to receive accommodations. Information about the Moses Center can be found at http://www.nyu.edu/csd. The Moses Center is located at 726 Broadway on the 2nd floor.
