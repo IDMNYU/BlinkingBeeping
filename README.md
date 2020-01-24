@@ -2,7 +2,7 @@
 
 **NYU Tandon School of Engineering**
 
-**Integrated Digital Media**
+**Integrated Digital Media, Technology Culture and Society**
 
 Spring 2020 • 3 credit hrs
 
