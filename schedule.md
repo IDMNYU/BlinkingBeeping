@@ -5,7 +5,7 @@
   * solder party
 * Readings
   * [Bret Victor "A Brief Rant on the Future of Interaction Design"](http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/)
-  * [Tom Igoe "Physical Computings's Greatest Hits and Misses](https://www.tigoe.com/blog/category/physicalcomputing/176/)
+  * Hands
 * Assignment
   * start a blog for the course. Respond to the reading on the blog.
   * get the parts for class
@@ -30,73 +30,62 @@
 
 # Week 4 - Friday February 21
 * analog input and output
+* midterm proposals
 * Readings- 
-  * 
+  * [Tom Igoe "Physical Computings's Greatest Hits and Misses](https://www.tigoe.com/blog/category/physicalcomputing/176/)
+  * Calm technology
 * Assignment
-  * Build a love-machine that identifies how compatible two people are with the microcontroller. Think of your input, and how well it maps to your output.
+  * Build a love machine that identifies how compatible two people are with the microcontroller.
 
 # Week 5 - Friday February 28
 * servos and tone
-* lots of lights
+* Controlling lots of lights 
+* midterm check in
 * Readings- 
-  * 
+  * Paul Dourish Where the Action is Ch 1
 * Assignment
-  * 
+  * continue midterm projects
 
 # Week 6 - Friday March 6
-* Serial communication or
-* Midterms
+* Midterm presentations
+* serial introduction
 * Readings- 
-  *
+  * Crawford- the Art of Interactive Design
 * Assignment
-  *
+  * create a physical interface for a simple p5 or processing sketch
  
 # Week 7 - Friday March 13
-* Midterm project presentations or
-* Open Hardware Summit
-* Readings- 
-  *
+* Open Hardware Summit || Design symposium 
+* Reading-
+  * Making Things Move
 * Assignment
-  *
+  * Observation Assignment
  
 # Spring Break
 
 # Week 8 - Friday March 27
 * motors and high current loads
-* Readings- 
-  *
 * Assignment
-  *
+  * Exploring motion as an output.
+ 
 # Week 9 - Friday April 3
-* motors and motion continued
-* Readings- 
-  *
-* Assignment
-  *
+* Synchronous serial communication protocols
+  * SPI
+  * I2C
 
 # Week 10 - Friday April 10
-* inflatables
-* Readings- 
-  *
-* Assignment
-  *
+* wireless options
+  * bluetooth
+  * wifi
 
 # Week 11 - Friday April 17
 * Final project proposals
-* Readings- 
-  *
-* Assignment
-  *
 
 # Week 12 - Friday April 24
-* project workshop
-* Readings- 
-  *
-* Assignment
-  *
+* final project workshop
 
 # Week 13 - Friday May 1
-* project workshop
+* final project workshop
 
 # Week 14 - Friday May 8
-* Final project showcase 
+* Final project presentations 
