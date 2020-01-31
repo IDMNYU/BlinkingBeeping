@@ -1,11 +1,7 @@
-# Atari Punk Console
+# 555 flasher circuit
 
-The Atari Punk Console (APC) is a simple circuit to build that has a lot of expressive potential. It's a way to make soemthing noisy with electronics that you can enjoy and not worry about scewing up much during the build. In fact, it may make weirder sounds this way.
+This simple circuit uses a capacitor and some resistors to flash an LED at a regular interval. You can also hook uop a speaker or piezo to make noise at the same time
 
-It uses [the 555 timer](https://www.dropbox.com/s/0zklerplnu7isn0/555_from_make.pdf?dl=0) to generate tones.
+It uses [the 555 timer](https://www.dropbox.com/s/0zklerplnu7isn0/555_from_make.pdf?dl=0) to generate the pulses. We're using a 556 timer, which is really 2 555s in one package.
 
-![APC Forest Mim's schematic](apc-mims-schematic.jpg "APC Forest Mim's schematic")
-
-![APC on a breadboard](APC_bb.png "on a bb")
-
-![APC on a breadboard with photocells](APC_photocell.png "sans pots")
+![556 flasher circuit](blinkerbeeper_bb.png "556 flasher")
