@@ -69,9 +69,10 @@
   
 * [Breadboarding](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard)
   * Breadboards offer the opportunity to prototype a circuit before constructing it in a more permanent form. 
+![beadboards](/images/breadboards.png "various breadboards")
 
-
-* Components of circuit building
+* Components
+![components](/images/various-parts.png "various parts")
 
 * power supplies
   * These will provide power for the work. Typically plugged into a wall
