@@ -67,19 +67,19 @@ If you get really into prototyping with electronics, you can get some hand tools
 * Talk to me in person directly after class, come by office hours \(Wed 3:30-5pm\), or set up an appointment about issues and problems.
 
 ### **EVALUATION & GRADING**
-you are expected to keep a class journal on our wiki. This will be your repository for research, thoughts and reactions to the readings, documentation of your projects, and a place for you to comment and critique each other’s work. 
+You are expected to keep a class journal. This will be your repository for research, thoughts and reactions to the readings, documentation of your projects, and a place for you to comment and critique each other’s work. 
 
-You must dicument your work online with text, photos, sketches, code, videos, and audio files as approriate. This is not only for your weekly production assignments, but also process documentation for the midterm and final projects.
+You must document your work online with text, photos, sketches, code, videos, and audio files as approriate. This is not only for your weekly production assignments, but also process documentation for the midterm and final projects.
 
 ##### QUANTITATIVE GRADING OVERVIEW
 
 blog posts about the readings |  12
 weekly production assignments  | 15
-research assignment and presentation | 10
+research assignment and presentation | 5
 midterm project  |  15
 final project | 25
-attendance | 13
-class participation | 10
+attendance | 15
+class participation | 13
 total |  100
 
 ##### QUALITATIVE GRADING OVERVIEW
