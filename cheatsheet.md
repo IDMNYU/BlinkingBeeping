@@ -78,15 +78,15 @@
   * These will provide power for the work. Typically plugged into a wall
 * regulators
   * a type of component that drops voltage across its pins. the excess is released as heat. A 7805 regulator, will drop the voltage in a circuit to 5V
-* resistors
+* [resistors](https://learn.sparkfun.com/tutorials/resistors)
   * resist the flow of electrical energy. Used to limit current and drop voltage.
-  * measured in ohms, you can determine the amount of resistance with a multimeter, or using a resistor color calculator
+  * measured in ohms, you can determine the amount of resistance with a multimeter, or using a [resistor color calculator](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band)
   * never polarized
-* capacitors
+* [capacitors](https://learn.sparkfun.com/tutorials/capacitors)
   * components that store and discharge electricity over time. They are often used to smooth out irregularities in current and voltage.
-  * measured in farads, the amount of capacitance can vary and come in a wide variety of shapes and sizes
+  * measured in farads, the amount of [capacitance can vary])(http://www.muzique.com/schem/caps.htm) and come in a wide variety of shapes and sizes
   * some are polarized, others are not
-* motors
+* [motors](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one)
   * steppers
   * brushless DC motor
   * solenoids
@@ -101,8 +101,8 @@
   * the most fun diodes. they are polarized components that emit light when voltage is applied
 * switches
   * used to control the flow of electricity in a circuit. There are many shapes, sizes and kinds. The small pushbutton ones we have are momentary, but there are also latched ones that work like a lightswitch in that they hold their position.
-* Series vs. Parallel circuits
+* [Series vs. Parallel circuits](https://learn.sparkfun.com/tutorials/series-and-parallel-circuits)
   * If components in a circuit are in series, there is only one path for current to flow through them.  
   * In parallel circuitry, current can take multiple paths between elements/components.
-* Schematics
+* [Schematics](https://learn.sparkfun.com/tutorials/how-to-read-a-schematic)
   * A Schematic is a map of how to properly connect a given circuit. Symbols represent various components (like resistors, capacitors, switches, ics, and power sources)  and lines represent connections between those components.
