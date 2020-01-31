@@ -1,4 +1,4 @@
-# Week 1 - Friday January 31
+# [Week 1 - Friday January 31](week1.md)
 * Class introductions
 * Ritual reading of the syllabus
 * [Jim Campbell's formula for computer art](https://www.jimcampbell.tv/portfolio/miscellaneous_references/)
