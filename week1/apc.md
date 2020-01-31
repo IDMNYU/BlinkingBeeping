@@ -4,6 +4,6 @@ The Atari Punk Console (APC) is a simple circuit to build that has a lot of expr
 
 ![APC Forest Mim's schematic](apc-mims-schematic.jpg "APC Forest Mim's schematic")
 
-![APC Forest Mim's schematic](APC_bb.png "on a bb")
+![APC on a breadboard](APC_bb.png "on a bb")
 
-![APC Forest Mim's schematic](apc-mims-schematic.jpg "APC Forest Mim's schematic")
+![APC on a breadboard with photocells](APC_photocell.png "sans pots")
