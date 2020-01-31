@@ -2,6 +2,7 @@
 * Class introductions
 * Ritual reading of the syllabus
 * [Jim Campbell's formula for computer art](https://www.jimcampbell.tv/portfolio/miscellaneous_references/)
+* Some basics about parts
 * your first build- [555 flasher](/week1/apc.md)
 * Readings
   * [Bret Victor "A Brief Rant on the Future of Interaction Design"](http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/) and [the follow-up to reader's responses](http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/responses.html)
