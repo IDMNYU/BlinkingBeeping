@@ -1,10 +1,10 @@
 # Electronic Cheat Sheet
 
-## Electricity Basics
+## [Electricity Basics](https://learn.sparkfun.com/tutorials/what-is-electricity)
 * Electricity is the flow of negatively charged electrons through a given material (usually copper wire or another conductor). We use this natural phenomenon to power a variety of devices and circuits.
 * Electricity can be harnessed and converted, used to create light or motion, to transfer data and communicate between systems.
 
-## AC / DC
+## [AC / DC](https://learn.sparkfun.com/tutorials/alternating-current-ac-vs-direct-current-dc)
 * AC – Alternating Current
    * Current oscillates.
    * fantastic for long distances/ high voltage / current applications
@@ -21,7 +21,7 @@
 
 * Some devices — incandescent light bulbs, certain motors, heating elements — operate directly from AC current. Others (like many consumer electronics) accept AC current but translate it internally into DC current. Still others can only accept DC current.
 
-## Ohms Law
+## [Ohms Law](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law)
 * V=IR — The foundational equation for how to calculate the different properties of a circuit: voltage, current, and resistance.  
   * Voltage is the difference in charge between two points.
   * Current is the rate at which charge is flowing.
@@ -29,7 +29,7 @@
 
 * Ohms Law is relevant when building a circuit, but also when troubleshooting a circuit. For example:  identifying whether the voltage being supplied to a circuit is being used in its entirety and/or if any excess is being absorbed by the appropriate resistors.
 
-## What is a circuit?
+## [What is a circuit?](https://learn.sparkfun.com/tutorials/what-is-a-circuit)
 * Circuits are closed loops that allow electricity to flow from a point of higher potential energy, such as a the positive lead on a battery, to a lower potential, through a load like a lightbulb.
 * They control the movement of electricity in service of a specific purpose or outcome through assemblies of electrical components.
 * The key components of safe and effective circuitry include:
@@ -41,12 +41,12 @@
   * Electricity will follow the path of least resistance
   * The amount of current flowing into a spot in a circuit is the same that flows out
 
-## Power vs Signal
+## [Power](https://learn.sparkfun.com/tutorials/electric-power) vs Signal
 * Electricity can be used to power a device or to create a signal. Examples of a power: to run a motor, turn on a lightbulb, etc.)
   * a signal is a method of communication between devices, for example between 2 integrated circuits
 * Circuits created for these different purposes share many things in common, but also have unique requirements. When creating a signal, elements like frequency and noise become important. Different materials may be used to construct (and different tools may be used to test) a power circuit as opposed to a signal circuit.
 
-## Power Supplies
+## [Power Supplies](https://learn.adafruit.com/power-supplies)
 * The source of electricity for your device/installation
 * Could be batteries, wall worts, solar, wind, electro-magnetic in origin
 * power for work could be either AC or DC
@@ -56,7 +56,7 @@
   * AC/DC
   * Polarity
 
-## Polarity
+## [Polarity](https://learn.sparkfun.com/tutorials/polarity)
 * Polarity indicates whether a circuit component is symmetric or not. A non-polarized (symmetric) component can be connected in any direction and still function the way it’s supposed to function. A polarized component can only be connected to a circuit in one direction. If connected in the wrong orientation, at best it won’t work as intended. At worst, it will smoke/spark/die.
 * A common AA battery is a simple example of a polarized component: with positive and negative terminals that must be correctly aligned for it to function. Polarized elements in a circuit can be much more complicated though, with multiple connection points that each have a unique function and position.
 
