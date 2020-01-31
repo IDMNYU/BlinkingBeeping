@@ -12,11 +12,12 @@ Each of you will be responsible for doing a brief 10 minute presentation (5 minu
 * a sensor that you find interesting. if you go this route, using it in an applicaion/demo is strongly reccomended.
 * an artwork or project that uses the tools we are using in class (this doesn't have to be the exact tools, use your best judgement- ask if unsure).
 * an artist or figure whose work you find inspiring in this realm
+* something else that you discuss with me at least 5 days beforehand that we agree to be relevant
 
 Write up a brief description on your site before your presentation. This doesn't need to be very long, but it should have links, video, images, etc. and give a reader a genral sense of what you are discussing. Please ask questions if you are unsure of anything.
 
 ## Midterm
-Your midterm project is a group project. You will work in pairs (there may be a group of three if we have an off number of folks in the classroom). You need to build a physically interactive system that has some sort of physical input and output. There are a number of different ways this project can be approached, we will discuss in class. You will have a few weeks to build this, but every week in the process you are expected to show steady progress in its completion. While only one member of a group needs to write about the project, the other needs to link to the post from their site. You will present these in class, they should be functional and usable by other members of the class.
+Your midterm project is a group project. You will work in pairs (there may be a group of three if we have an odd number of folks in the classroom). You need to build a physically interactive system that has some sort of physical input and output. There are a number of different ways this project can be approached, we will discuss in class. You will have a few weeks to build this, but every week in the process you are expected to show steady progress in its completion. While only one member of a group needs to write about the project, the other needs to link to the post from their site. You will present these in class, they should be functional and usable by other members of the class when you present the project. Document your work well. If your presentation fails, you should still be able to show a working project through clear video documentation.
 
 ## Final
 Your final project can be made on your own, or in small groups (two or three members). You will create a physically interactive system of your choice. This should not be a one trick pony, or as Josh Goldberg called it "Dunking the Clown".
