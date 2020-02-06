@@ -13,7 +13,7 @@
   * buy the parts for class and bring them with you next week
   * get trained in the Makerspace
 
-# Week 2 - Friday February 7
+# [Week 2 - Friday February 7](week2.md)
 * Electricity basics
 * buttons and switches
 * multimeters and other tools
