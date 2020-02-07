@@ -5,7 +5,7 @@
   * series v parallel
   * multimeters and other tools
   * Ohm's Law
-* buttons and switches
+* [buttons and switches](switches.md)
 
 
 Computers are great adding machines. They’re also great at comparing things that usually don’t work well together. Last week, we looked at [Jim Campbell's animation](http://jimcampbell.tv/portfolio/miscellaneous_references/) about various types of inputs and outputs. Thanks to the magic of miocrocontrollers, we can get away from the mouse, monitor, keyboard (and the now ubiquitous touchscreen) to think differently about these machines we use all the time.
@@ -23,6 +23,7 @@ You should also keep in mind that that electricity is like a college student in 
 The last thing you need to know about circuit building is that all things must connect to ground.
 
 We [use schematics to identify various components](https://vimeo.com/90534363)
+![components and schemeatics](/week2/components.png)
 
 [Breadboards](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all) are our canvas. They’re the best. They allow us to change circuits quickly and easily. Underneath the plastic insulation, there are metallic strips that form connections which carry electricity. See [what’s inside a breadboard](https://www.youtube.com/watch?v=qDe28Su5lOA) for more.
 
@@ -31,13 +32,13 @@ Soldering is going to become your best bet at keeping things in place. [Adafruit
 We will be working with DC in this class. It's what comes out of 9V batteries, USB cables, and the charger for your laptop. [There’s also AC](https://learn.sparkfun.com/tutorials/alternating-current-ac-vs-direct-current-dc/all), it's the stuff that comes out of wall sockets, runs along power lines, and has been used to electrocute an elephant. But don’t go there.
 
 Turn the Arduino into an expensive power supply to light up your LED.
-[simple circuit](http://cc.droolcup.com/wp-content/uploads/2015/07/Simple-Switch.png)
+![simple circuit](http://cc.droolcup.com/wp-content/uploads/2015/07/Simple-Switch.png)
 
 This circuit has 2 LEDs in series (for you CS folks, this is like &&)
-[leds in series](/week2/series_LED_bb.png)
+![leds in series](/week2/seriesLED_bb.png)
 
 This curcuit has 2 LEDs in parallel (aka ||)
-[leds and switches in parallel](http://cc.droolcup.com/wp-content/uploads/2015/07/bb.png)
+![leds and switches in parallel](http://cc.droolcup.com/wp-content/uploads/2015/07/bb.png)
 
 Multimeters are great tools for figuring out what is going on inside a circuit. [Adafruit has a very nice tutorial on how to use one.](https://learn.adafruit.com/multimeters/overview)
 

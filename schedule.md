@@ -15,10 +15,11 @@
 
 # [Week 2 - Friday February 7](week2.md)
 * Electricity basics
-* buttons and switches
+* [buttons and switches](switches.md)
 * multimeters and other tools
 * Readings- 
-  * Read prologue and Ch 1 of the Design of Everyday Things
+  * [Read Ch 1, _A History of Interaction_ from "Where the Action is" by Paul Dourish](https://ebookcentral-proquest-com.proxy.library.nyu.edu/lib/nyulibrary-ebooks/reader.action?docID=5966349&ppg=14)
+  * [Everything you never wanted to know about switches](switches.md)
 * Assignment
   * Make a switch that you can control without using your hands. Document it on your site with a blog post. Write about what you are acomplishing here with this new kind of switch. Save this for next week, you'll use it again!
 
