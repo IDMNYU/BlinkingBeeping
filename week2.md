@@ -14,43 +14,34 @@ At the end of the day, all we’re doing with a circuit is wrangling electrons. 
 
 When we describe electrical characteristics, we talk about voltage (measured in Volts), current (measured in Amps or Amperes), and resistance (measured in Ohms). Voltage is like the force of the electricity, the current is the amount of electricity, and resistance pushes back against the flow. 
 
-_Ohms Law_ (V=I*R) is useful in theory, but not so much for day to day use. What is more interesting, is that electricity is like a college student in that it follows the path of least resistance.
+[Ohms Law](https://learn.adafruit.com/circuit-playground-o-is-for-ohm/learn-more) (V=I*R) is useful in theory, but not so much for day to day use. It's useful for making sure you don't light your LEDs on fire accidentally.
 
-We always want our circuits to have some sort of work for the electrons to do. This can be busywork (like a resistor), or actual work (like an LED), or behind the scenes work (operating logic gates). Without something to do, electrons get bored and start fires (aka short circuits). All voltage gets used up in a circuit, which is why you can’t bring your DVD player to France.
+We always want our circuits (closed loops with a connection between power and ground) to have some sort of work for the electrons to do. This can be busywork (like a resistor), or actual work (like an LED), or behind the scenes work (operating logic gates). Without something to do, electrons get bored and start fires (aka short circuits). All voltage gets used up in a circuit, which is why you can’t bring your DVD player to France. 
 
-https://vimeo.com/76442432
+You should also keep in mind that that electricity is like a college student in that it follows the path of least resistance.
 
-For us, right now, it lets us know that we can’t just stick one of our LEDs into a 5V rail without it blowing up.
+The last thing you need to know about circuit building is that all things must connect to ground.
 
-https://vimeo.com/78674965
+We [use schematics to identify various components](https://vimeo.com/90534363)
 
-We can use schematics to identify various components
-
-https://vimeo.com/90534363
-
-Breadboards are our canvas. They’re the best. They allow us to change circuits quickly and easily. Underneath the plastic insulation, there are metallic strips that form connections which carry electricity. See what’s inside a breadboardfor more.
+[Breadboards](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all) are our canvas. They’re the best. They allow us to change circuits quickly and easily. Underneath the plastic insulation, there are metallic strips that form connections which carry electricity. See [what’s inside a breadboard](https://www.youtube.com/watch?v=qDe28Su5lOA) for more.
 
 Soldering is going to become your best bet at keeping things in place. [Adafruit has an excellent guide to soldering.](https://learn.adafruit.com/adafruit-guide-excellent-soldering)
 
-While we’re working with DC, there’s also AC. But don’t go there.
-https://learn.sparkfun.com/tutorials/alternating-current-ac-vs-direct-current-dc/all
-https://learn.sparkfun.com/tutorials/alternating-current-ac-vs-direct-current-dc/all?print=1
+We will be working with DC in this class. It's what comes out of 9V batteries, USB cables, and the charger for your laptop. [There’s also AC](https://learn.sparkfun.com/tutorials/alternating-current-ac-vs-direct-current-dc/all), it's the stuff that comes out of wall sockets, runs along power lines, and has been used to electrocute an elephant. But don’t go there.
 
 Turn the Arduino into an expensive power supply to light up your LED.
 
 This circuit is in series
 
+Each of the following are curcuits in parallel
 
-Each of the following are in parallel
+Multimeters are great tools for figuring out what is going on inside a circuit. [Adafruit has a very nice tutorial on how to use one.](https://learn.adafruit.com/multimeters/overview)
 
-
-
-Multimeters are great tools for figuring out what is going on inside a circuit. Adafruit has avery nice tutorial on how to use one.
-
-Now that you have used a switch out of the box,make your own. [Here is a great example of how you should be thinking about the exercise for the week.](https://itp.nyu.edu/~tlc345/blog/mustache-switch/)
-
+Now that you have used a switch out of the box, make your own. [Here is a great example of how you should be thinking about the exercise for the week.](https://itp.nyu.edu/~tlc345/blog/mustache-switch/)
 
 * Readings- 
-  * Read prologue and Ch 1 of the Design of Everyday Things
+  * [Read Ch 1, _A History of Interaction_ from "Where the Action is" by Paul Dourish](https://ebookcentral-proquest-com.proxy.library.nyu.edu/lib/nyulibrary-ebooks/reader.action?docID=5966349&ppg=14)
+  * [Everything you never wanted to know about switches](switches.md)
 * Assignment
   * Make a switch that you can control without using your hands. Document it on your site with a blog post. Write about what you are acomplishing here with this new kind of switch. Save this for next week, you'll use it again!
