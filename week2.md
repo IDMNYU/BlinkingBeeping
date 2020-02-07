@@ -5,7 +5,7 @@
   * series v parallel
   * multimeters and other tools
   * Ohm's Law
-* buttons and switches
+* [buttons and switches](switches.md)
 
 
 Computers are great adding machines. They’re also great at comparing things that usually don’t work well together. Last week, we looked at [Jim Campbell's animation](http://jimcampbell.tv/portfolio/miscellaneous_references/) about various types of inputs and outputs. Thanks to the magic of miocrocontrollers, we can get away from the mouse, monitor, keyboard (and the now ubiquitous touchscreen) to think differently about these machines we use all the time.
