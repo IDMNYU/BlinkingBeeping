@@ -1,5 +1,5 @@
 # Switches
-The switch is about as basic a sensor as you can get. As such, it’s easy to overlook their versatility, use, and gloss over the different kinds of switches that are out there. They are best for detecting presence. Is something there or not.
+The switch is about as basic a sensor as you can get. As such, it’s easy to overlook their versatility, use, and gloss over the different kinds of switches that are out there. They are best for detecting presence. They provide the answer to the question "Is something there or not?"
 
 But before discussing different types of switches and how they operate, let’s see what a switch does.
 
