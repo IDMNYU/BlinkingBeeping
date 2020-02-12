@@ -44,8 +44,10 @@ Multimeters are great tools for figuring out what is going on inside a circuit. 
 
 Now that you have used a switch out of the box, make your own. [Here is a great example of how you should be thinking about the exercise for the week.](https://itp.nyu.edu/~tlc345/blog/mustache-switch/)
 
-* Readings- 
-  * [Read Ch 1, _A History of Interaction_ from "Where the Action is" by Paul Dourish](https://ebookcentral-proquest-com.proxy.library.nyu.edu/lib/nyulibrary-ebooks/reader.action?docID=5966349&ppg=14)
+* Readings
+ * [Read Ch 1, _A History of Interaction_ from "Where the Action is" by Paul Dourish](https://ebookcentral-proquest-com.proxy.library.nyu.edu/lib/nyulibrary-ebooks/reader.action?docID=5966349&ppg=14)
   * [Everything you never wanted to know about switches](switches.md)
+  * Dourish writes about a history of embodied interaction. He defines two separate threads that lead to this: _social_ and _tangible_ computing. How do you understand these terms based on the reading? Do you agree with his definitions? Do you think there are other kinds of computing he is ignoring? Write about this in your class journal.
 * Assignment
-  * Make a switch that you can control without using your hands. Document it on your site with a blog post. Write about what you are acomplishing here with this new kind of switch. Save this for next week, you'll use it again!
+  * Make a switch that you can control without using your hands. Document it on your class journal. Use photos and video as appropriate. Write about what you are acomplishing here with this new kind of switch. Save this for next week, you'll use it again!
+  * [Download the Arduino IDE](https://www.arduino.cc/en/Main/Software)
