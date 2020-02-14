@@ -26,10 +26,12 @@ That’s code! Specifically it’s a pair of function declarations and comments.
 
 Functions are the parts of code that actually do stuff. Below is the function declaration for `setup()`.
 
-`void setup() {
+```arduino
+void setup() {
   // put your setup code here, to run once:
 
-}`
+}
+```
 
 The `void` is what the function will return. Some functions will respond with a number, object or character when called. This one doesn’t return anything, so it’s “void” (not related to the existential dread you get when faced with a blank window when coding).
 
