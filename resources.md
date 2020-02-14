@@ -4,6 +4,11 @@
 * [USB cable](https://www.adafruit.com/product/592) The Arduino Nano Every uses a USB micro connector. If you're using a different board, get the USB cable that's appropriate. This is for powering and programming your board. $2.95
 * [Male to Male wires](https://www.adafruit.com/product/153) These are great for quickly prototyping.
 
+**Using your microcontroller**
+* [Arduino Nano Every Getting Started Guide](https://www.arduino.cc/en/Guide/NANOEvery)
+* [Nano Every forums](https://forum.arduino.cc/index.php?PHPSESSID=tufjmn8g7mp2n8uv6b8ol1csf5&board=137.0)
+* [Arduino language reference](https://www.arduino.cc/reference/en/)
+
 **Nano Every Pinout**
 ![Nano Every Pinout](https://content.arduino.cc/assets/Pinout-NANOevery_latest.png)
 

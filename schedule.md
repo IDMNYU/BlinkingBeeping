@@ -25,15 +25,19 @@
   * Make a switch that you can control without using your hands. Document it on your site with a blog post. Write about what you are acomplishing here with this new kind of switch. Save this for next week, you'll use it again!
   * [Download the Arduino IDE](https://www.arduino.cc/en/Main/Software)
 
-# Week 3 - Friday February 14
-* Intro to microcontrollers
-* Digital input and output 
+# [Week 3 - Friday February 14](week3.md)
+* Let's see those switches
+* [Sign up for presentations](https://docs.google.com/spreadsheets/d/1MMgeDywQdWfN6e-FvFUnoKXYQhVwJvkjrlulPLM4cQc/edit?usp=sharing)
+* Hello World of microcontrollers
+* digital input and output
 * Readings- 
-  * Read prologue and Ch 1 of Emotional Design
+  * [Read Prologue and Chapter 1, _Attractive Things Work Better_ from "Emotional Design" by Don Norman](https://ebookcentral-proquest-com.proxy.library.nyu.edu/lib/nyulibrary-ebooks/reader.action?docID=876410&ppg=16)
+  * What do you think of the three elements of design (visceral, behavorial, and reflective) Norman describes? Are they sufficient? Is it too much hair splitting?
 * Assignment
-  * Using the switch you built last week, control a set of lights with your microcontroller. Try making a coiunter, or a stop light, or something else with this new control.  
+  * Using the switch you built last week, control a set of lights with your microcontroller. Try making a counter, or a stop light, or something else with this new control. Can you add more switches? Can you make lights blink independently (look at the Arduino examples > Digital > Blink without delay sketch for a hint on how to do this)? Document this new interaction with your switch and post it to your blog.
 
 # Week 4 - Friday February 21
+* presentations
 * analog input and output
 * midterm proposals
 * Readings- 
@@ -43,6 +47,7 @@
   * Build a love machine that identifies how compatible two people are with the microcontroller.
 
 # Week 5 - Friday February 28
+* presentations
 * servos and tone
 * Controlling lots of lights 
 * midterm check in
@@ -69,24 +74,29 @@
 # Spring Break
 
 # Week 8 - Friday March 27
+* presentations
 * motors and high current loads
 * Assignment
   * Exploring motion as an output.
  
 # Week 9 - Friday April 3
+* presentations
 * Synchronous serial communication protocols
   * SPI
   * I2C
 
 # Week 10 - Friday April 10
+* presentations
 * wireless options
   * bluetooth
   * wifi
 
 # Week 11 - Friday April 17
+* presentations
 * Final project proposals
 
 # Week 12 - Friday April 24
+* presentations
 * final project workshop
 
 # Week 13 - Friday May 1
