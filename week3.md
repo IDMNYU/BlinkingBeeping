@@ -6,7 +6,7 @@
 
 While you’ve successfully managed to turn some lights on, you’ve so far been limited in that you have only been able to do one thing at a time. With software, we can do multiple things (or at least have the appearance of multiple things) happening. We can also control things so that they happen automagically. It's the interaction of algorithims, memory, and whatever input you provide that make the magic happen. Through software, we can reconfigure a machine to do anything we darn well please, including teaching the machine to behave like a different machine (see also, emulators).
 
-There a many many different types of software languages. Sadly, [the ones that I think are most interesting are the least useful to us](https://esoteric.codes/). Generally speaking though, languages can be laid out along a continuum of “high-level” to “low-level”. As we’re not planning on talking directly to the silicon in the chips we’re using, we can use a higher level language that is closert to natural human language than natural machine language. 
+There a many many different types of software languages. Sadly, [the ones that I think are most interesting are the least useful to us](https://esoteric.codes/). Generally speaking though, languages can be laid out along a continuum of “high-level” to “low-level”. As we’re not planning on talking directly to the silicon in the chips we’re using, we can use a higher level language that is closer to natural human language than natural machine language. 
 
 The general idea behind software is that it abstracts machine instructions (a series of 0s and 1s) and gives us something closer to what we might use to communicate with one another. We have limited options for the Arduino. [The Arduino language](https://www.arduino.cc/en/Reference/HomePage) is a high level variant of C with a few C++ features. These are different than python or javascript in a number of ways, most importantly in that they are 'typed'. Some microcontrollers do allow you to write python, lua, or javascript for them- but that's living on the edge, we won't visit that in class.
 
@@ -154,5 +154,6 @@ Here are the 2 additional circuits  :
 
 * Readings- 
   * [Read Prologue and Chapter 1, _Attractive Things Work Better_ from "Emotional Design" by Don Norman](https://ebookcentral-proquest-com.proxy.library.nyu.edu/lib/nyulibrary-ebooks/reader.action?docID=876410&ppg=16)
+  * What do you think of the three elements of design (visceral, behavorial, and reflective) Norman describes? Are they sufficient? Is it too much hair splitting?
 * Assignment
   * Using the switch you built last week, control a set of lights with your microcontroller. Try making a counter, or a stop light, or something else with this new control. Can you add more switches? Can you make lights blink independently (look at the Arduino examples > Digital > Blink without delay sketch for a hint on how to do this)? Document this new interaction with your switch and post it to your blog.
