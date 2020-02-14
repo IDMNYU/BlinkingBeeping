@@ -26,7 +26,7 @@ That’s code! Specifically it’s a pair of function declarations and comments.
 
 Functions are the parts of code that actually do stuff. Below is the function declaration for `setup()`.
 
-```arduino
+```Arduino
 void setup() {
   // put your setup code here, to run once:
 
@@ -41,18 +41,21 @@ The curly brackets `{}` are used to remark the start and end of what the functio
 
 The `//` indicates a single line comment. This is something the IDE’s compiler will ignore. Comments are the most helpful thing you will ever use when programming. They are great for reviewing what you were doing 6 months earlier when you first wrote the program. You can write comments over several lines of by encapsulating them with `/* ….. */` as seen below :
 
-`void setup() {
+```Arduino
+void setup() {
   /* This is a multi-line comment. 
   Everything between the paired asterisk 
   and slash is ignored by the computer */
-}`
-
+}
+```
 After `setup()`, you call the function `loop()`.
 
-`void loop() {
+```Arduino
+void loop() {
   // put your main code here, to run repeatedly:
 
-}`
+}
+```
 
 `loop()` runs over and over again forever until the power goes out or you press the reset button or upload a new sketch. The speed at which it goes through your code depends on what you’re doing. Generally it moves through these lines faster than you think.
 
@@ -62,21 +65,25 @@ Before we do the “Hello World” of hardware and get an LED to blink, we need 
 
 In `setup()`, you need to declare what pin you want to turn into an output. The `pinMode()` function takes care of this for us. `pinMode()` takes 2 arguments, the first is the number of the pin we want to set, and the second is what kind of pin we want it to be (`INPUT` or `OUTPUT`). In this example, we’ll make pin 2 an `OUTPUT`.
 
-`void setup() {
+```Arduino
+void setup() {
   // put your setup code here, to run once:
   pinMode(2, OUTPUT);
-}`
+}
+```
 
 That semicolon (`;`) you see at the end is going to bedevil you for a long time. Think of it like a period at the end of a sentence. While humans can be pretty forgiving of run on sentences even when they lack full punctuation we can typically suss out the meaning of the author’s intent. Computers are not so forgiving, and need a semicolon after each line of code.
 
 In `loop()`, you want to set the voltage of the pin to turn the LED on and off. `digitalWrite()` allows us to do this by telling a particular pin wether it is `HIGH` (in which case it turn the pin “on” and putting out 5V) or `LOW` (“off”, or 0V). We’ll want to alternate between on and off to make the blinking happen.
 
-`void loop() { // put your main code here, to run repeatedly:
+```Arduino
+void loop() { // put your main code here, to run repeatedly:
   digitalWrite(2, HIGH);
   delay(1000);
   digitalWrite(2, LOW);
   delay(1000);
-}`
+}
+```
 
 The `delay()` function makes your program pause. `delay()` can be helpful, but it will freeze the micrcontroller's state. This means nothing else while `delay()` is ticking down. You can change the duration of how long it stops as an argument. This value is in milliseconds because computers run crazy fast. This will loop forever and ever and ever.
 
@@ -92,16 +99,19 @@ Hooray! you should see some lights on the board flash, then the LED will start t
 
 Now let’s try and get some input. We’ll start with the code again.
 
-`void setup() {
+```Arduino
+void setup() {
   pinMode(2,OUTPUT);
   pinMode(3,INPUT);
-}`
+}
+```
 
 Here, we’re adding pin 3 as an `INPUT`. The Arduino can now _read_ the voltage on the pin and let us know if it is `HIGH` or `LOW`.
 
 Now on to the `loop()` where there’s some more new things you may recognize :
 
-`void loop() {
+```Arduino Light
+void loop() {
   if (digitalRead(3) == HIGH) {
     digitalWrite(2, HIGH);
     delay(1000);
@@ -110,7 +120,8 @@ Now on to the `loop()` where there’s some more new things you may recognize :
   } else {
     digitalWrite(2, LOW);
   }
-}`
+}
+```
 
 This introduces a number of new ideas in one pass. Let’s start with something you're already familiar-ish with. `digitalRead()` is a function that will check the voltage of the pin you provide as an argument. `digitalRead()` _returns_ a value, either `HIGH` or `LOW`, depending on the state of the pin. If there is 5V on the pin, it will give us `HIGH`, 0V will give us `LOW`.
 
