@@ -290,6 +290,9 @@ void loop() {
 }
 ```
 One thing to note about servos is that their wire color can vary. If you have one where there is a red cable and a black cable, you can safely assume red is power, black is ground, and the third wire is your signal. If you have one that's orange, red brown, I've found this is generally the proper wiring : red is 5v, brown is ground, and orange is the signal. If you have something different, try and google the model number of the servo, or something like "servo wires " + colors of the wires.
+
+* Midterm party
+
 * Readings- 
   * [Phsyical Computing's Greatest Hits and Misses](https://www.tigoe.com/blog/category/physicalcomputing/176/)
 * Assignment
