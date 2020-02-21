@@ -8,6 +8,7 @@
 * [Arduino Nano Every Getting Started Guide](https://www.arduino.cc/en/Guide/NANOEvery)
 * [Nano Every forums](https://forum.arduino.cc/index.php?PHPSESSID=tufjmn8g7mp2n8uv6b8ol1csf5&board=137.0)
 * [Arduino language reference](https://www.arduino.cc/reference/en/)
+* [some nonsense notes on code and variables](code.md)
 
 **Nano Every Pinout**
 ![Nano Every Pinout](https://content.arduino.cc/assets/Pinout-NANOevery_latest.png)

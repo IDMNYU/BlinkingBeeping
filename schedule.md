@@ -37,14 +37,19 @@
   * Using the switch you built last week, control a set of lights with your microcontroller. Try making a counter, or a stop light, or something else with this new control. Can you add more switches? Can you make lights blink independently (look at the Arduino examples > Digital > Blink without delay sketch for a hint on how to do this)? Document this new interaction with your switch and post it to your blog before class on Friday.
 
 # Week 4 - Friday February 21
-* presentations
+* Presentations!
+* discussion of reading
+* Show your work
 * analog input and output
-* midterm proposals
+* Midterm party
+  * Your midterm project is a group project. You will work in pairs. You need to build a physically interactive system that has some sort of physical input and output. There are a number of different ways this project can be approached, we will discuss in class. You will have a few weeks to build this, but every week in the process you are expected to show steady progress in its completion. While only one member of a group needs to write about the project, the other needs to link to the post from their site. You will present these in class, they should be functional and usable by other members of the class when you present the project. Hide the wires and breadboard and electronis as much as possible inside an enclosure, you want this to be presentable. Document your work well. If your presentation fails, you should still be able to show a working project through clear video documentation.
 * Readings- 
-  * [Tom Igoe "Physical Computings's Greatest Hits and Misses](https://www.tigoe.com/blog/category/physicalcomputing/176/)
-  * Calm technology
+  * [Phsyical Computing's Greatest Hits and Misses](https://www.tigoe.com/blog/category/physicalcomputing/176/)
+  * [A Taxonomy of Tangible User interfaces](http://courses.ischool.berkeley.edu/i262/f13/readings_pdf/taxonomy.pdf)
 * Assignment
-  * Build a love machine that identifies how compatible two people are with the microcontroller.
+  * Build a love machine that identifies how compatible two people are with the microcontroller. Use analog sensors for this. Ideally, work in pairs. Document this in your journal.
+  * Write a short decription of your midterm idea. Draw a sketch of what the system will be, think about how someone will interact with it. Be prepared to discuss your proposal next week in class. 
+
 
 # Week 5 - Friday February 28
 * presentations
