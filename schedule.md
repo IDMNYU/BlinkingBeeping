@@ -36,7 +36,7 @@
 * Assignment
   * Using the switch you built last week, control a set of lights with your microcontroller. Try making a counter, or a stop light, or something else with this new control. Can you add more switches? Can you make lights blink independently (look at the Arduino examples > Digital > Blink without delay sketch for a hint on how to do this)? Document this new interaction with your switch and post it to your blog before class on Friday.
 
-# Week 4 - Friday February 21
+# [Week 4 - Friday February 21](week4.md)
 * Presentations!
 * discussion of reading
 * Show your work
