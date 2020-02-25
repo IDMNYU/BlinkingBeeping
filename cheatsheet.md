@@ -99,7 +99,7 @@
   * polarized components that make sure electricity only flows in one direction. useful in AC circuits, or in DC circuits when using an inductive load like a motor
 * LEDs
   * the most fun diodes. they are polarized components that emit light when voltage is applied
-* switches
+* [switches](https://electronicsclub.info/switches.htm)
   * used to control the flow of electricity in a circuit. There are many shapes, sizes and kinds. The small pushbutton ones we have are momentary, but there are also latched ones that work like a lightswitch in that they hold their position.
 * [Series vs. Parallel circuits](https://learn.sparkfun.com/tutorials/series-and-parallel-circuits)
   * If components in a circuit are in series, there is only one path for current to flow through them.  
