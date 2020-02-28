@@ -51,15 +51,13 @@
   * Write a short decription of your midterm idea. Draw a sketch of what the system will be, think about how someone will interact with it. Be prepared to discuss your proposal next week in class. 
 
 
-# Week 5 - Friday February 28
-* presentations
-* servos and tone
-* Controlling lots of lights 
+# [Week 5 - Friday February 28](week5.md)
+* Presentations!
+* show your work
+* servos, sounds, and other things
 * midterm check in
-* Readings- 
-  * Paul Dourish Where the Action is Ch 1
 * Assignment
-  * continue midterm projects
+  * Work with your partner and complete your midterm project. Be prepared to show it in class next week. On one of your journals document the project- this includes (at least) a description of the project- a "what and why", how it works- a technical description or "how", what you could do to improve on this in the future, and a video or photos of it working. You will all present these in class next week.
 
 # Week 6 - Friday March 6
 * Midterm presentations
@@ -70,13 +68,12 @@
   * create a physical interface for a simple p5 or processing sketch
  
 # Week 7 - Friday March 13
-* Open Hardware Summit || Design symposium 
-* Reading-
-  * Making Things Move
+* Open Hardware Summit 
 * Assignment
-  * Observation Assignment
+  * Observation Assignment - drawing in public
  
 # Spring Break
+:surfer::surfer::surfer::surfer::surfer::surfer::surfer::surfer::surfer::surfer::surfer:
 
 # Week 8 - Friday March 27
 * presentations
