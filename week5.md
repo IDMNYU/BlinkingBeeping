@@ -1,6 +1,9 @@
 # Week 5 - Friday February 28
 * Presentations!
+  * Katie
+  * Jason
 * show your work
+* midterm discussions
 * servos, sounds, and other things
   * silly scopes
   * resistor ladders
