@@ -58,8 +58,11 @@
   * Katie
   * Jason
 * show your work
-* servos, sounds, and other things
 * midterm check in
+* servos, sounds, and other things
+  * silly scopes
+  * resistor ladders
+  * knock sensors
 * Assignment
   * Work with your partner and complete your midterm project. Be prepared to show it in class next week. On one of your journals document the project- this includes (at least) a description of the project- a "what and why", how it works- a technical description or "how", what you could do to improve on this in the future, and a video or photos of it working. You will all present these in class next week.
 
