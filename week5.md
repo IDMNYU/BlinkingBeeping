@@ -2,6 +2,9 @@
 * Presentations!
 * show your work
 * servos, sounds, and other things
+  * silly scopes
+  * resistor ladders
+  * knock sensors
 
 Related to PWM, but different, is frequency modulation. We can use this in conjunction with a small speaker or piezo element to generate a sound. In PWM, there’s a fixed frequency. With [tone()](https://www.arduino.cc/en/Reference/tone), you can change the frequency of a duty cycle fixed at 50%. In this example, there are switches attached to pins 2, 3 & 4.
 ```C++
