@@ -71,12 +71,13 @@
 * serial introduction
 * Assignment
   * create a physical interface for a simple p5 or processing sketch. Post this on your journal
+  * super secret thing
  
 # Week 7 - Friday March 13
-* Open Hardware Summit 
+* [Open Hardware Summit](https://2020.oshwa.org) 
 * Assignment
+  * writeup of the summit
   * Observation Assignment - drawing in public
-  * super secret thing
  
 # Spring Break
 :surfer::surfer::surfer::surfer::surfer::surfer::surfer::surfer::surfer::surfer::surfer:
