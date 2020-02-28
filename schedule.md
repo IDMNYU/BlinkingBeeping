@@ -38,6 +38,8 @@
 
 # [Week 4 - Friday February 21](week4.md)
 * Presentations!
+  * Lucas
+  * Theodora
 * discussion of reading
 * Show your work
 * analog input and output
@@ -53,6 +55,8 @@
 
 # [Week 5 - Friday February 28](week5.md)
 * Presentations!
+  * Katie
+  * Jason
 * show your work
 * servos, sounds, and other things
 * midterm check in
@@ -62,43 +66,50 @@
 # Week 6 - Friday March 6
 * Midterm presentations
 * serial introduction
-* Readings- 
-  * Crawford- the Art of Interactive Design
 * Assignment
-  * create a physical interface for a simple p5 or processing sketch
+  * create a physical interface for a simple p5 or processing sketch. Post this on your journal
  
 # Week 7 - Friday March 13
 * Open Hardware Summit 
 * Assignment
   * Observation Assignment - drawing in public
+  * super secret thing
  
 # Spring Break
 :surfer::surfer::surfer::surfer::surfer::surfer::surfer::surfer::surfer::surfer::surfer:
 
 # Week 8 - Friday March 27
-* presentations
-* motors and high current loads
-* Assignment
-  * Exploring motion as an output.
+* Presentations!
+  * Dana
+  * Felicity
+* Lots of lights
+* sound playback
+* more serial communication
  
 # Week 9 - Friday April 3
 * presentations
-* Synchronous serial communication protocols
-  * SPI
-  * I2C
+  * Isiah
+  * Chloe
+* Motors and moving things
 
 # Week 10 - Friday April 10
 * presentations
+  * Uma
+  * Linus
 * wireless options
   * bluetooth
   * wifi
 
 # Week 11 - Friday April 17
 * presentations
+  * Elizabeth
+  * Gregoire
 * Final project proposals
 
 # Week 12 - Friday April 24
 * presentations
+  * Jessica
+  * Mayda
 * final project workshop
 
 # Week 13 - Friday May 1
