@@ -549,8 +549,7 @@ function portOpen() {
 ```
 
 * Assignments
-  * for next Friday (I will be checking these on Friday afternoon) create a physical interface for a p5 or processing sketch. Post this on your journal
-  * Take home quiz - Friday
-  * Visit the Open Hardware Summit - write up and document one of the talks. What was it abotu- did you find it interestuing or not? 200 words (you can do this while you hang in your seat!)
-  * Observation Assignment over soring break
+  * [Take home quiz - due Friday](https://forms.gle/Gm6HFDwwSunnTsJt7)
+  * Visit the Open Hardware Summit - write up and document one of the talks. What was it about- did you find it interesting or not? Why? 200-300 words (you can do this while you hang in your seat!)
+  * Observation Assignment over spring break - will be posted next week.
   
