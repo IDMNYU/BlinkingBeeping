@@ -66,13 +66,14 @@
 * Assignment
   * Work with your partner and complete your midterm project. Be prepared to show it in class next week. On one of your journals document the project- this includes (at least) a description of the project- a "what and why", how it works- a technical description or "how", what you could do to improve on this in the future, and a video or photos of it working. You will all present these in class next week.
 
-# Week 6 - Friday March 6 2020
+# [Week 6 - Friday March 6 2020](week6.md)
 * Midterm Presentations!
   * Donuts
 * Serial Examples
-* Assignment
-  * create a physical interface for a simple p5 or processing sketch. Post this on your journal
-  * super secret thing
+* Assignments
+  * [Take home quiz - due Friday](https://forms.gle/Gm6HFDwwSunnTsJt7)
+  * Visit the Open Hardware Summit - write up and document one of the talks. What was it about- did you find it interesting or not? Why? 200-300 words (you can do this while you hang in your seat!)
+  * Observation Assignment over spring break - will be posted next week.
  
 # Week 7 - Friday March 13
 * [Open Hardware Summit](https://2020.oshwa.org) 
