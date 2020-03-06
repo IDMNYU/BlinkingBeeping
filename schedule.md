@@ -77,7 +77,7 @@
 # Week 7 - Friday March 13
 * [Open Hardware Summit](https://2020.oshwa.org) 
 * Assignment
-  * writeup of the summit
+  * writeup of the summit - 250/300 words
   * Observation Assignment - drawing in public
  
 # Spring Break
