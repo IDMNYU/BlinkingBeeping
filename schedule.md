@@ -71,7 +71,7 @@
   * Donuts
 * Serial Examples
 * Assignments
-  * [Take home quiz - due Friday](https://forms.gle/Gm6HFDwwSunnTsJt7)
+  * [Take home quiz - due Wed March 25](https://forms.gle/Gm6HFDwwSunnTsJt7)
   * Visit the Open Hardware Summit - write up and document one of the talks. What was it about- did you find it interesting or not? Why? 200-300 words (you can do this while you hang in your seat!)
   * Observation Assignment over spring break - will be posted next week.
  
@@ -79,32 +79,28 @@
 * [Open Hardware Summit](https://2020.oshwa.org) 
 * Assignment
   * writeup of the summit - 250/300 words
-  * Observation Assignment - drawing in public
+  * Observation Assignment - rethinking a physical interface that may act as a vector.
  
 # Spring Break
-:surfer::surfer::surfer::surfer::surfer::surfer::surfer::surfer::surfer::surfer::surfer:
+Take a breath. Recalibrate
 
 # Week 8 - Friday March 27
 * Presentations!
   * Dana
   * Felicity
-* Lots of lights
-* sound playback
 * more serial communication
  
 # Week 9 - Friday April 3
 * presentations
   * Isiah
   * Chloe
-* Motors and moving things
+* lots of lights
 
 # Week 10 - Friday April 10
 * presentations
   * Uma
   * Linus
-* wireless options
-  * bluetooth
-  * wifi
+* Microcontrollers and the internet
 
 # Week 11 - Friday April 17
 * presentations
@@ -116,10 +112,10 @@
 * presentations
   * Jessica
   * Mayda
-* final project workshop
+* final project one on one meetings
 
 # Week 13 - Friday May 1
 * final project workshop
 
 # Week 14 - Friday May 8
-* Final project presentations 
+* Final project presentations
