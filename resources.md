@@ -1,3 +1,10 @@
+**Pages and things that will be useful for the second half of class**
+* [tinkercad](https://www.tinkercad.com/) - 3d modeling, virtual circuit design and arduio simulation
+* [circuits.io](https://library.io/) - Create circuit boards for production 
+* [Fritzing](https://fritzing.org/home/) - illustrated breadboard creation and circuit schematics
+* [collection of phyiscal computing readings](https://drive.google.com/open?id=1BXASggl_DI2G0jAoDdgUwOwvbEgKz3UU)
+* [ebook collection for electronics](https://drive.google.com/open?id=0B4B0lmFvWBCeMFRyV1NXbHlINjA)
+
 **Materials you need for class**
 * [half-size breadboard](https://www.adafruit.com/product/64) $5.00
 * [microcontroller](https://store.arduino.cc/usa/nano-every-with-headers) The Arduino Nano Every has all the functionality you need. If you already have a microcontoller you'd like to use, it's probably fine, but please check with me first. There are other boards that have other capabilities (wireless connections, built-in sensors, etc.), if you're curious, please ask and I can help you figure out what is best. $11.90
