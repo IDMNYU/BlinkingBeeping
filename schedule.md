@@ -89,7 +89,7 @@ Take a breath. Recalibrate
   * what's new and interesting with you in the last few weeks?
 * Moving forward with the class schedule and planning for everyone
   * New resources
-    * Is Slack an acceptable solution for everyone?
+    * Is Slack an acceptable solution for everyone? Would you prefer something like Discord?
   * making this relevant and interesting to each of you
   * Pre-recorded content / class scheduling
 * Presentations!
