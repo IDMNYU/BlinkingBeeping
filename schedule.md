@@ -84,11 +84,24 @@
 # Spring Break
 Take a breath. Recalibrate
 
-# Week 8 - Friday March 27
+# [Week 8 - Friday March 27](week8.md)
+* Checking in - how is everyone doing?
+  * what's new and interesting with you in the last few weeks?
+* Moving forward with the class schedule and planning for everyone
+  * New resources
+    * Is Slack an acceptable solution for everyone?
+  * making this relevant and interesting to each of you
+  * Pre-recorded content / class scheduling
 * Presentations!
   * Dana
   * Felicity
-* more serial communication
+* Reviewing the take home quiz
+* Observations
+* Open Q&A time
+
+* Assignment
+  * Watch the video on Serial communication (will be posted Saturday morning)
+  * Create a sketch in the program of your choice that communicates with your microcontroller. Post a video of this on your blog. What are you making?
  
 # Week 9 - Friday April 3
 * presentations
