@@ -90,6 +90,7 @@ Take a breath. Recalibrate
 * Moving forward with the class schedule and planning for everyone
   * New resources
     * Is Slack an acceptable solution for everyone? Would you prefer something like Discord?
+    * Discord wins
   * making this relevant and interesting to each of you
   * Pre-recorded content / class scheduling
 * Presentations!
@@ -100,12 +101,12 @@ Take a breath. Recalibrate
 * Open Q&A time
 
 * Assignment
-  * Watch the video on Serial communication (will be posted Saturday morning)
+  * [Watch the videos on Serial communication](https://www.youtube.com/watch?v=PPyJnY7gcEg&list=PLnkvii1uWBvEprzkCJZbSAWsiqncWodoQ) 
   * Create a sketch in the program of your choice that communicates with your microcontroller. Post a video of this on your blog. What are you making?
  
 # Week 9 - Friday April 3
 * presentations
-  * Isiah
+  * Isaiah
   * Chloe
 * lots of lights
 
