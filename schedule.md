@@ -109,7 +109,8 @@ Take a breath. Recalibrate
   * Isaiah
   * Chloe
 * lots of lights
-* assignment - Make something with neopixels. This can be reactive to a sensor, or a standalone piece. Document it on your websitd.
+* [Watch the videos on communicating with Neopixels](https://www.youtube.com/watch?v=M1y2SraOkD8&list=PLnkvii1uWBvFbpfnF2xECtyp6i6Svegn6)
+* assignment - Make something with neopixels. This can be reactive to a sensor, or a standalone piece. Document it on your website.
 
 # Week 10 - Friday April 10
 * presentations
