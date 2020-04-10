@@ -116,7 +116,10 @@ Take a breath. Recalibrate
 * presentations
   * Uma
   * Linus
+* ritual showing of work and asking of questions
 * Microcontrollers and the internet
+* Assignment - Pull data from a public API and use that as a method to change soemthing with your microcontroller - a Servo, an LED, etc. Think about how this augments and changes your understanding of the data. Documetn your project and write about it. Youtube playlist to be posted.
+* Final project proposals - Coem up with a proposal for what you would liek to do for a final project. Please either schedule a short meeting with me in the next week or discuss this over email. 
 
 # Week 11 - Friday April 17
 * presentations
