@@ -118,8 +118,7 @@ Take a breath. Recalibrate
   * Linus
 * ritual showing of work and asking of questions
 * Microcontrollers and the internet
-* Assignment - Pull data from a public API and use that as a method to change soemthing with your microcontroller - a Servo, an LED, etc. Think about how this augments and changes your understanding of the data. Document your project and write about it. [Youtube playlist on APIs and Ardunio with p5js](https://www.youtube.com/watch?v=7qR8wpcqyaA) 
-[Using Adafruit.io so communicate between miltiple sketches](https://www.youtube.com/watch?v=9mp-moZnAlA)
+* Assignment - Pull data from a public API and use that as a method to change soemthing with your microcontroller - a Servo, an LED, etc. Think about how this augments and changes your understanding of the data. Document your project and write about it. [Youtube playlist on APIs and Ardunio with p5js](https://www.youtube.com/watch?v=7qR8wpcqyaA) *///* [Using Adafruit.io so communicate between multiple sketches](https://www.youtube.com/watch?v=9mp-moZnAlA)
 * Final project proposals - Coem up with a proposal for what you would liek to do for a final project. Please either schedule a short meeting with me in the next week or discuss this over email. 
 
 # Week 11 - Friday April 17
