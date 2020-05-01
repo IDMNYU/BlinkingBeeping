@@ -9,7 +9,7 @@ LEDs have some narrow viewing angles. That is, they don't illuminate a space, or
 ## Ways of working with LEDs as objects
 Usually, the way that people most want to work with LEDs is to diffuse light, or make it softer. There are a bunch of way to do this, these are just a few I've tried that have worked well for me.
 * hot glue melted over the bulb - when it dried it helps diffuse the light
-* sanding the bulb - a fien grit sandpaper on a clar domed LED wil help diffuse the light
+* sanding the bulb - a fine grit sandpaper on a clear domed LED will help diffuse the light
 * ping pong balls - they will glow super nicely. Poke a hole in a ping pong ball with a pencil and pop it on top of a 5mm domes LED (those are the kinds of LEDs we were using in class prior to the neopixels)
 * paper or other semi-translucent material - vellum, rice paper, etc. held at a distance from a LED will help diffuse the light. Put it in a frame and you have a [contemporary art piece](https://www.moma.org/collection/works/117948?sov_referrer=artist&artist_id=34787&page=1)
 
