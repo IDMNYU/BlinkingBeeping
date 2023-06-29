@@ -6,9 +6,9 @@ Working with the components you have in hand, recreate the circuit as described 
 
 The schematic you were provided with follows, along with some video documentation.
 
-!(Atari Punk Console Schematic)[https://tbm.idm.hosting.nyu.edu/wp-content/uploads/2021/01/Screen-Shot-2021-01-16-at-6.40.33-PM.png]
+![Atari Punk Console Schematic](https://tbm.idm.hosting.nyu.edu/wp-content/uploads/2021/01/Screen-Shot-2021-01-16-at-6.40.33-PM.png)
 
-!(Video of APC in action)[https://tbm.idm.hosting.nyu.edu/wp-content/uploads/2021/01/PXL_20210116_204450568.mp4]
+![Video of APC in action](https://tbm.idm.hosting.nyu.edu/wp-content/uploads/2021/01/PXL_20210116_204450568.mp4)
 
 Once you have built your circuit on a breadboard or soldered it onto your copper plated board, post it with some video to the #apc channel in slack.
 
