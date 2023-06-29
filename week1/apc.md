@@ -8,7 +8,7 @@ The schematic you were provided with follows, along with some video documentatio
 
 ![Atari Punk Console Schematic](https://tbm.idm.hosting.nyu.edu/wp-content/uploads/2021/01/Screen-Shot-2021-01-16-at-6.40.33-PM.png)
 
-![Video of APC in action](https://tbm.idm.hosting.nyu.edu/wp-content/uploads/2021/01/PXL_20210116_204450568.mp4)
+<video src="https://tbm.idm.hosting.nyu.edu/wp-content/uploads/2021/01/PXL_20210116_204450568.mp4" width="610" height="343"controls></video>
 
 Once you have built your circuit on a breadboard or soldered it onto your copper plated board, post it with some video to the #apc channel in slack.
 
