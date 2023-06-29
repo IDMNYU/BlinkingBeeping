@@ -23,7 +23,7 @@ You should also keep in mind that that electricity is like a college student in 
 The last thing you need to know about circuit building is that all things must connect to ground.
 
 We [use schematics to identify various components](https://vimeo.com/90534363)
-![components and schemeatics](/week2/components.png)
+![components and schematics](/week2/components.png)
 
 [Breadboards](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all) are our canvas. They’re the best. They allow us to change circuits quickly and easily. Underneath the plastic insulation, there are metallic strips that form connections which carry electricity. See [what’s inside a breadboard](https://www.youtube.com/watch?v=qDe28Su5lOA) for more.
 

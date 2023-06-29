@@ -1,20 +1,18 @@
-# [Week 1 - Friday January 31](week1.md)
+# [Week 1 - Wed September 6](week1.md)
 * Class introductions
 * Ritual reading of the syllabus
 * [Jim Campbell's formula for computer art](https://www.jimcampbell.tv/portfolio/miscellaneous_references/)
-* Some basics about parts
-* your first build- [555 flasher](/week1/apc.md)
 * Readings
-  * [Bret Victor "A Brief Rant on the Future of Interaction Design"](http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/) and [the follow-up to reader's responses](http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/responses.html)
   * [Chris Crawford, Chapter 1 What is Interactivity? from "The Art of Interactive Design"](https://ebookcentral-proquest-com.proxy.library.nyu.edu/lib/nyulibrary-ebooks/reader.action?docID=273475&ppg=25)
 * Assignment
-  * Start a blog or website for the course. Email me the link before class next week.
-  * _Due Thurs Feb 6 by 5pm_ On your website, write a short response to the readings (between 200-500 words). Following Crawford's argument of interaction as something that exists along a continuium, how do you define interactivity? Do you agree with his definition? How does this relate to Victor's 'rant' about interfaces?
-  * buy the parts for class and bring them with you next week
+  * Start a blog or website for the course. Post a link in the class slack.
+  * _Due Sunday September 11 by 5pm_ On your website, write a short response to the readings (between 200-500 words). Following Crawford's argument of interaction as something that exists along a continuium, how do you define interactivity? Do you agree with his definition? 
   * get trained in the Makerspace
 
-# [Week 2 - Friday February 7](week2.md)
+# [Week 2 - Monday September 11 & Wednesday September 13](week2.md)
 * Electricity basics
+* your first build- [Atari punk console](/week1/apc.md)
+* Some basics about parts
 * [buttons and switches](switches.md)
 * multimeters and other tools
 * Readings- 
@@ -24,10 +22,10 @@
 * Assignment
   * Make a switch that you can control without using your hands. Document it on your site with a blog post. Write about what you are acomplishing here with this new kind of switch. Save this for next week, you'll use it again!
   * [Download the Arduino IDE](https://www.arduino.cc/en/Main/Software)
+  * [Sign up for presentations](https://docs.google.com/spreadsheets/d/1u0xoj2lZ_zM9WBcj3Ap5-4PgslzUylcX95YNGhgqfe8/edit?usp=sharing)
 
-# [Week 3 - Friday February 14](week3.md)
+# [Week 3 - Monday September 18 & Wednesday September 20](week3.md)
 * Let's see those switches
-* [Sign up for presentations](https://docs.google.com/spreadsheets/d/1MMgeDywQdWfN6e-FvFUnoKXYQhVwJvkjrlulPLM4cQc/edit?usp=sharing)
 * Hello World of microcontrollers
 * digital input and output
 * Readings- 
@@ -36,10 +34,8 @@
 * Assignment
   * Using the switch you built last week, control a set of lights with your microcontroller. Try making a counter, or a stop light, or something else with this new control. Can you add more switches? Can you make lights blink independently (look at the Arduino examples > Digital > Blink without delay sketch for a hint on how to do this)? Document this new interaction with your switch and post it to your blog before class on Friday.
 
-# [Week 4 - Friday February 21](week4.md)
+# [Week 4 - Monday September 25 & Wednesday September 27](week4.md)
 * Presentations!
-  * Lucas
-  * Theodora
 * discussion of reading
 * Show your work
 * analog input and output
@@ -53,10 +49,8 @@
   * Write a short decription of your midterm idea. Draw a sketch of what the system will be, think about how someone will interact with it. Be prepared to discuss your proposal next week in class. 
 
 
-# [Week 5 - Friday February 28](week5.md)
+# [Week 5 - (Scott not present October 2, either guest lecturer or supplementary work) Wed October 4](week5.md)
 * Presentations!
-  * Katie
-  * Jason
 * show your work
 * midterm check in
 * servos, sounds, and other things
@@ -66,37 +60,19 @@
 * Assignment
   * Work with your partner and complete your midterm project. Be prepared to show it in class next week. On one of your journals document the project- this includes (at least) a description of the project- a "what and why", how it works- a technical description or "how", what you could do to improve on this in the future, and a video or photos of it working. You will all present these in class next week.
 
-# [Week 6 - Friday March 6 2020](week6.md)
+# [Week 6 - Tuesday October 10 & Wed October 11](week6.md)
 * Midterm Presentations!
-  * Donuts
 * Serial Examples
 * Assignments
-  * [Take home quiz - due Wed March 25](https://forms.gle/Gm6HFDwwSunnTsJt7)
-  * Visit the Open Hardware Summit - write up and document one of the talks. What was it about- did you find it interesting or not? Why? 200-300 words (you can do this while you hang in your seat!)
-  * Observation Assignment over spring break - will be posted next week.
+  * [Take home quiz - due Sunday October 16](https://forms.gle/Gm6HFDwwSunnTsJt7)
+  * Observation Project.
  
-# Week 7 - Friday March 13
-* [Open Hardware Summit](https://2020.oshwa.org) 
+# Week 7 - Monday October 16 & Wednesday October 18
 * Assignment
-  * writeup of the summit - 250/300 words
   * Observation Assignment - rethinking a physical interface that may act as a vector.
- 
-# Spring Break
-Take a breath. Recalibrate
 
-# [Week 8 - Friday March 27](week8.md)
-* Checking in - how is everyone doing?
-  * what's new and interesting with you in the last few weeks?
-* Moving forward with the class schedule and planning for everyone
-  * New resources
-    * Is Slack an acceptable solution for everyone? Would you prefer something like Discord?
-    * Discord wins
-  * making this relevant and interesting to each of you
-  * Pre-recorded content / class scheduling
+# [Week 8 - Monday October 23 & Wednesday October 25](week8.md)
 * Presentations!
-  * Dana
-  * Felicity
-* Reviewing the take home quiz
 * Observations
 * Open Q&A time
 
@@ -104,37 +80,31 @@ Take a breath. Recalibrate
   * [Watch the videos on Serial communication](https://www.youtube.com/watch?v=PPyJnY7gcEg&list=PLnkvii1uWBvEprzkCJZbSAWsiqncWodoQ) 
   * Create a sketch in the program of your choice that communicates with your microcontroller. Post a video of this on your blog. What are you making?
  
-# Week 9 - Friday April 3
+# Week 9 - Monday October 30 & Wednesday November 1
 * presentations
-  * Isaiah
-  * Chloe
 * lots of lights
 * [Watch the videos on communicating with Neopixels](https://www.youtube.com/watch?v=M1y2SraOkD8&list=PLnkvii1uWBvFbpfnF2xECtyp6i6Svegn6)
 * assignment - Make something with neopixels. This can be reactive to a sensor, or a standalone piece. Document it on your website.
 
-# Week 10 - Friday April 10
+# Week 10 - Monday November 6 & Wednesday November 8
 * presentations
-  * Uma
-  * Linus
-* ritual showing of work and asking of questions
 * Microcontrollers and the internet
 * Assignment - Pull data from a public API and use that as a method to change soemthing with your microcontroller - a Servo, an LED, etc. Think about how this augments and changes your understanding of the data. Document your project and write about it. [Youtube playlist on APIs and Ardunio with p5js](https://www.youtube.com/watch?v=7qR8wpcqyaA) *///* [Using Adafruit.io to communicate between multiple sketches](https://www.youtube.com/watch?v=9mp-moZnAlA)
-* Final project proposals - Coem up with a proposal for what you would liek to do for a final project. Please either schedule a short meeting with me in the next week or discuss this over email. 
+* Final project proposals - Coem up with a proposal for what you would like to do for a final project. 
 
-# Week 11 - Friday April 17
+# Week 11 - Monday November 13 & Wednesday November 15
 * presentations
-  * Elizabeth
-  * Gregoire
 * Final project proposals
 
-# Week 12 - Friday April 24
+# Week 12 - Monday November 20 
 * presentations
-  * Jessica
-  * Mayda
 * final project one on one meetings
 
-# Week 13 - Friday May 1
+# Week 13 - Monday November 27 & Wednesday November 29
+* presentations$$
+
+# Week 14 - Monday December 4 & Wednesday December 6
 * final project workshop
 
-# Week 14 - Friday May 8
+# Week 15 - Monday December 11 & Wednesday December 13
 * Final project presentations
