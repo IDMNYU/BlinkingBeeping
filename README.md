@@ -1,17 +1,16 @@
-## Blinking Beeping Moving Sensing DM-UY 4913 F
+## Blinking Beeping Moving Sensing DM-UY 4913 G
 
 **NYU Tandon School of Engineering**
 
 **Integrated Digital Media, Technology Culture and Society**
 
-Spring 2020 • 3 credit hrs
+Fall 2023 • 3 credit hrs
 
 _Instructor_:  [Scott Fitzgerald](http://ennuigo.com), shf220@nyu.edu 
 
-_Location_: Fridays 12:30-4:10pm • 370 Jay Street Room 309
+_Location_: M/W 10am-11:50am • 370 Jay Street Room 309
 
-_Office hours_:  Wednesdays 3:30-5pm, 370 Jay Room 359
-If you cannot make this due to class or work conflicts, contact me by email. 
+_Office hours_:  Wednesdays 3:30-5pm, 370 Jay Room 359 
 
 _Course Website_: [https://idmnyu.github.io/BlinkingBeeping/](https://idmnyu.github.io/BlinkingBeeping)
 
@@ -49,22 +48,16 @@ This class will consist of
 All readings will be provided as PDFs or online links.
 
 ##### Required Hardware
-You need to have, at minimum, the following items before class on Feb 7:
-* [half-size breadboard](https://www.adafruit.com/product/64) $5.00
-* [microcontroller](https://store.arduino.cc/usa/nano-every-with-headers) The Arduino Nano Every has all the functionality you need. If you already have a microcontoller you'd like to use, it's probably fine, but please check with me first. There are other boards that have other capabilities (wireless connections, built-in sensors, etc.), if you're curious, please ask and I can help you figure out what is best. $11.90
-* [USB cable](https://www.adafruit.com/product/592) The Arduino Nano Every uses a USB micro connector. If you're using a different board, get the USB cable that's appropriate. This is for powering and programming your board. $2.95
-* [Male to Male wires](https://www.adafruit.com/product/153) These are great for quickly prototyping.
-
 You may wind up spending money on this course for sensors, actuators, equipment, etc. Always discuss your intentions with the instructor before purchasing anything.
 
-The IDM Proto Lab will have a bunch of basics for you to work with : LEDs, wire, resistors, transistors, capacitors, etc. You are free to use these tools, but if you’re going to be building something of significant scope, you should get your own materials.
+The IDM Labs will have a bunch of basics for you to work with : LEDs, wire, resistors, transistors, capacitors, etc. You are free to use these tools, but if you’re going to be building something of significant scope, you should get your own materials.
 
 If you get really into prototyping with electronics, you can get some hand tools and other equipment, but again, it’s best to ask about what you need.
 
 ### **COMMUNICATING WITH THE PROFESSOR OUTSIDE OF CLASS**
 
 * EMAIL ME - however if your email is more than a paragraph we should probably be meeting in person.
-* Talk to me in person directly after class, come by office hours \(Wed 3:30-5pm\), or set up an appointment about issues and problems.
+* Talk to me in person directly after class, come by office hours, or set up an appointment about issues and problems.
 
 ### **EVALUATION & GRADING**
 You are expected to keep a class journal. This will be your repository for research, thoughts and reactions to the readings, documentation of your projects, and a place for you to comment and critique each other’s work. 
