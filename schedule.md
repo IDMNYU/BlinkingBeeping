@@ -7,9 +7,9 @@
 * Assignment
   * Start a blog or website for the course. Post a link in the class slack.
   * _Due Sunday September 11 by 5pm_ On your website, write a short response to the readings (between 200-500 words). Following Crawford's argument of interaction as something that exists along a continuium, how do you define interactivity? Do you agree with his definition? 
-  * get trained in the Makerspace
+  * get trained in the IDM Design Lab and the Makerspace.
 
-# [Week 2 - Monday September 11 & Wednesday September 13](week2.md)
+# Week 2 - Monday September 11 & Wednesday September 13
 * Electricity basics
 * your first build- [Atari punk console](/week1/apc.md)
 * Some basics about parts
@@ -24,7 +24,7 @@
   * [Download the Arduino IDE](https://www.arduino.cc/en/Main/Software)
   * [Sign up for presentations](https://docs.google.com/spreadsheets/d/1u0xoj2lZ_zM9WBcj3Ap5-4PgslzUylcX95YNGhgqfe8/edit?usp=sharing)
 
-# [Week 3 - Monday September 18 & Wednesday September 20](week3.md)
+# Week 3 - Monday September 18 & Wednesday September 20
 * Let's see those switches
 * Hello World of microcontrollers
 * digital input and output
@@ -34,7 +34,7 @@
 * Assignment
   * Using the switch you built last week, control a set of lights with your microcontroller. Try making a counter, or a stop light, or something else with this new control. Can you add more switches? Can you make lights blink independently (look at the Arduino examples > Digital > Blink without delay sketch for a hint on how to do this)? Document this new interaction with your switch and post it to your blog before class on Friday.
 
-# [Week 4 - Monday September 25 & Wednesday September 27](week4.md)
+# Week 4 - Monday September 25 & Wednesday September 27
 * Presentations!
 * discussion of reading
 * Show your work
@@ -49,7 +49,7 @@
   * Write a short decription of your midterm idea. Draw a sketch of what the system will be, think about how someone will interact with it. Be prepared to discuss your proposal next week in class. 
 
 
-# [Week 5 - (Scott not present October 2, either guest lecturer or supplementary work) Wed October 4](week5.md)
+# Week 5 - Monday October 2 & Wed October 4
 * Presentations!
 * show your work
 * midterm check in
@@ -60,37 +60,36 @@
 * Assignment
   * Work with your partner and complete your midterm project. Be prepared to show it in class next week. On one of your journals document the project- this includes (at least) a description of the project- a "what and why", how it works- a technical description or "how", what you could do to improve on this in the future, and a video or photos of it working. You will all present these in class next week.
 
-# [Week 6 - Tuesday October 10 & Wed October 11](week6.md)
+# Week 6 - Tuesday October 10 & Wed October 11
 * Midterm Presentations!
 * Serial Examples
 * Assignments
-  * [Take home quiz - due Sunday October 16](https://forms.gle/Gm6HFDwwSunnTsJt7)
+  * Take home quiz
   * Observation Project.
  
 # Week 7 - Monday October 16 & Wednesday October 18
-* Assignment
-  * Observation Assignment - rethinking a physical interface that may act as a vector.
-
-# [Week 8 - Monday October 23 & Wednesday October 25](week8.md)
 * Presentations!
-* Observations
-* Open Q&A time
-
+* BLE and internal sensors
 * Assignment
-  * [Watch the videos on Serial communication](https://www.youtube.com/watch?v=PPyJnY7gcEg&list=PLnkvii1uWBvEprzkCJZbSAWsiqncWodoQ) 
+  * Observation Assignment - rethinking a physical interface.
+
+# Week 8 - Monday October 23 & Wednesday October 25
+* Presentations!
+* Observation assignment results
+* Other communication protocols - SPI / I2C
+* Assignment
   * Create a sketch in the program of your choice that communicates with your microcontroller. Post a video of this on your blog. What are you making?
  
 # Week 9 - Monday October 30 & Wednesday November 1
 * presentations
-* lots of lights
-* [Watch the videos on communicating with Neopixels](https://www.youtube.com/watch?v=M1y2SraOkD8&list=PLnkvii1uWBvFbpfnF2xECtyp6i6Svegn6)
-* assignment - Make something with neopixels. This can be reactive to a sensor, or a standalone piece. Document it on your website.
+* lots of lights with LEDs
+* assignment - Make something with LED strips. This can be reactive to a sensor, or a standalone piece. Document it on your website.
 
 # Week 10 - Monday November 6 & Wednesday November 8
 * presentations
 * Microcontrollers and the internet
-* Assignment - Pull data from a public API and use that as a method to change soemthing with your microcontroller - a Servo, an LED, etc. Think about how this augments and changes your understanding of the data. Document your project and write about it. [Youtube playlist on APIs and Ardunio with p5js](https://www.youtube.com/watch?v=7qR8wpcqyaA) *///* [Using Adafruit.io to communicate between multiple sketches](https://www.youtube.com/watch?v=9mp-moZnAlA)
-* Final project proposals - Coem up with a proposal for what you would like to do for a final project. 
+* Assignment - Pull data from a public API and use that as a method to change soemthing with your microcontroller - a Servo, an LED, etc. Think about how this augments and changes your understanding of the data. Document your project and write about it. 
+* Final project proposals - Come up with a proposal for what you would like to do for a final project. 
 
 # Week 11 - Monday November 13 & Wednesday November 15
 * presentations
