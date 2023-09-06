@@ -1,7 +1,7 @@
 # Week 1
 * Class introductions
 * Ritual reading of the syllabus
-* class slides
+* [slides from class](/week1/bbms%20f%2023%201-1.pdf)
 * Readings
   * [Chris Crawford, Chapter 1 What is Interactivity? from "The Art of Interactive Design"](https://ebookcentral-proquest-com.proxy.library.nyu.edu/lib/nyulibrary-ebooks/reader.action?docID=273475&ppg=25)
   * [my notes on electricity](/week1/notes.md)
