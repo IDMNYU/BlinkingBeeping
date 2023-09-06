@@ -11,7 +11,7 @@
 * [Arduino language reference](https://www.arduino.cc/reference/en/)
 * [some nonsense notes on code and variables](code.md)
 
-**Nano Every Pinout**
+**Nano BLE33 Pinout**
 ![Nano BLE 33 Pinout](https://docs.arduino.cc/static/4c1da40b06b866435315963ef6bdf488/ABX00030-pinout.png)
 
 **Where to buy stuff**
