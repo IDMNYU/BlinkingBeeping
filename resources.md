@@ -1,30 +1,24 @@
-**Pages and things that will be useful for the second half of class**
+**Pages and things that will be useful for class**
 * [tinkercad](https://www.tinkercad.com/) - 3d modeling, virtual circuit design and arduio simulation
 * [circuits.io](https://library.io/) - Create circuit boards for production 
 * [Fritzing](https://fritzing.org/home/) - illustrated breadboard creation and circuit schematics
 * [collection of phyiscal computing readings](https://drive.google.com/open?id=1BXASggl_DI2G0jAoDdgUwOwvbEgKz3UU)
 * [ebook collection for electronics](https://drive.google.com/open?id=0B4B0lmFvWBCeMFRyV1NXbHlINjA)
 
-**Materials you need for class**
-* [half-size breadboard](https://www.adafruit.com/product/64) $5.00
-* [microcontroller](https://store.arduino.cc/usa/nano-every-with-headers) The Arduino Nano Every has all the functionality you need. If you already have a microcontoller you'd like to use, it's probably fine, but please check with me first. There are other boards that have other capabilities (wireless connections, built-in sensors, etc.), if you're curious, please ask and I can help you figure out what is best. $11.90
-* [USB cable](https://www.adafruit.com/product/592) The Arduino Nano Every uses a USB micro connector. If you're using a different board, get the USB cable that's appropriate. This is for powering and programming your board. $2.95
-* [Male to Male wires](https://www.adafruit.com/product/153) These are great for quickly prototyping.
-
 **Using your microcontroller**
-* [Arduino Nano Every Getting Started Guide](https://www.arduino.cc/en/Guide/NANOEvery)
-* [Nano Every forums](https://forum.arduino.cc/index.php?PHPSESSID=tufjmn8g7mp2n8uv6b8ol1csf5&board=137.0)
+* [Arduino Nano BLE 33 Getting Started Guide](https://docs.arduino.cc/hardware/nano-33-ble)
+* [Nano BLE 33 forums](https://forum.arduino.cc/c/hardware/nano-family/nano-33-ble/159)
 * [Arduino language reference](https://www.arduino.cc/reference/en/)
 * [some nonsense notes on code and variables](code.md)
 
 **Nano Every Pinout**
-![Nano Every Pinout](https://content.arduino.cc/assets/Pinout-NANOevery_latest.png)
+![Nano BLE 33 Pinout](https://docs.arduino.cc/static/4c1da40b06b866435315963ef6bdf488/ABX00030-pinout.png)
 
 **Where to buy stuff**
 * [Arduino store](https://store.arduino.cc/usa/)
 * [Adafruit](http://adafruit.com)
 * [Sparkfun](http://sparkfun.com)
-* [Tinkersphere](http://Tinkersphere.com) (located in Manhattan)
+* [Tinkersphere](http://Tinkersphere.com)
 * [Micro Center](https://www.microcenter.com/) (located in Sunset Park)
 * [Jameco](http://jameco.com)
 * [DigiKey](http://digikey.com)
@@ -36,5 +30,4 @@
 * [Arduino](http://arduino.cc)
 * [Adafruit learning system- Arduino](https://learn.adafruit.com/category/learn-arduino) 
 * [Fritzing](https://fritzing.org/home/)
-* [Bildr](https://bildr.org/) (RIP)
 * [Circuito](https://www.circuito.io/)
