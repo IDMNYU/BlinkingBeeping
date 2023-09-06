@@ -22,12 +22,12 @@ Soldering is going to become your best bet at keeping things in place. [Adafruit
 We will be working with DC in this class. It's what comes out of 9V batteries, USB cables, and the charger for your laptop. [There’s also AC](https://learn.sparkfun.com/tutorials/alternating-current-ac-vs-direct-current-dc/all), it's the stuff that comes out of wall sockets, runs along power lines, and has been used to electrocute an elephant. But don’t go there.
 
 Turn an Arduino into an expensive power supply to light up a LED.
-![simple circuit](http://cc.droolcup.com/wp-content/uploads/2015/07/Simple-Switch.png)
+![simple circuit](nano_led.png)
 
 This circuit has 2 LEDs in series (for you CS folks, this is like &&)
 ![leds in series](seriesLED_bb.png)
 
 This curcuit has 2 LEDs in parallel (aka ||)
-![leds and switches in parallel](http://cc.droolcup.com/wp-content/uploads/2015/07/bb.png)
+![leds and switches in parallel](parallelLED_bb.png)
 
 Multimeters are great tools for figuring out what is going on inside a circuit. [Adafruit has a very nice tutorial on how to use one.](https://learn.adafruit.com/multimeters/overview)
