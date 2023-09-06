@@ -51,3 +51,4 @@ Now that you have used a switch out of the box, make your own. [Here is a great 
 * Assignment
   * Make a switch that you can control without using your hands. Document it on your class journal. Use photos and video as appropriate. Write about what you are acomplishing here with this new kind of switch. Save this for next week, you'll use it again!
   * [Download the Arduino IDE](https://www.arduino.cc/en/Main/Software)
+  * [Sign up for presentations](https://docs.google.com/spreadsheets/d/1u0xoj2lZ_zM9WBcj3Ap5-4PgslzUylcX95YNGhgqfe8/edit?usp=sharing)

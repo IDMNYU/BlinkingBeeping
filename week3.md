@@ -1,8 +1,4 @@
 # Week 3 - Friday February 14
-* Let's see those switches
-* [Sign up for presentations](https://docs.google.com/spreadsheets/d/1MMgeDywQdWfN6e-FvFUnoKXYQhVwJvkjrlulPLM4cQc/edit?usp=sharing)
-* Hello World of microcontrollers
-* digital input and output
 
 While you’ve successfully managed to turn some lights on, you’ve so far been limited in that you have only been able to do one thing at a time. With software, we can do multiple things (or at least have the appearance of multiple things) happening. We can also control things so that they happen automagically. It's the interaction of algorithims, memory, and whatever input you provide that make the magic happen. Through software, we can reconfigure a machine to do anything we darn well please, including teaching the machine to behave like a different machine (see also, emulators).
 
