@@ -7,6 +7,6 @@
   * 555 timer reading
 * Assignment
   * Start a blog or website for the course. Email me the link before class next week.
-  * _Due Thurs Feb 6 by 5pm_ On your website, write a short response to the readings (between 200-500 words). Following Crawford's argument of interaction as something that exists along a continuium, how do you define interactivity? Do you agree with his definition? How does this relate to Victor's 'rant' about interfaces?
+  * _Due Thurs Feb 6 by 5pm_ On your website, write a short response to the readings (between 200-500 words). Following Crawford's argument of interaction as something that exists along a continuium, how do you define interactivity? Do you agree with his definition? 
   * buy the parts for class and bring them with you next week
   * get trained in the Makerspace
