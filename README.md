@@ -2,7 +2,7 @@
 
 **NYU Tandon School of Engineering**
 
-**Integrated Digital Media, Technology Culture and Society**
+**Integrated Design & Media, Technology Culture and Society**
 
 Fall 2023 • 3 credit hrs
 
@@ -50,6 +50,8 @@ All readings will be provided as PDFs or online links.
 ##### Required Hardware
 You may wind up spending money on this course for sensors, actuators, equipment, etc. Always discuss your intentions with the instructor before purchasing anything.
 
+You'll have access to the majorit of things you will need, and there is a standard issue kit that you will have access to for the semester.
+
 The IDM Design Lab will have a bunch of basics for you to work with : LEDs, wire, resistors, transistors, capacitors, etc. You are free to use these tools, but if you’re going to be building something of significant scope, you should get your own materials.
 
 If you get really into prototyping with electronics, you can get some hand tools and other equipment, but again, it’s best to ask about what you need.
@@ -60,7 +62,7 @@ If you get really into prototyping with electronics, you can get some hand tools
 * Talk to me in person directly after class, come by office hours, or set up an appointment about issues and problems.
 
 ### **EVALUATION & GRADING**
-You are expected to keep a class journal. This will be your repository for research, thoughts and reactions to the readings, documentation of your projects, and a place for you to comment and critique each other’s work. 
+You will keep a class journal. This will be your repository for research, thoughts and reactions to the readings, documentation of your projects, and a place for you to comment and critique each other’s work. 
 
 You must document your work online with text, photos, sketches, code, videos, and audio files as approriate. This is not only for your weekly production assignments, but also process documentation for the midterm and final projects.
 
@@ -87,13 +89,13 @@ total |  100
 
 ##### **Attendance and Assignments**
 
-* Attendance is mandatory. Unexcused absences will affect your grade. One unexcused absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent for each additional absence.
+* Attendance is mandatory. Unexcused absences will affect your grade. One unexcused absence is allowed; after that, your final numerical grade will drop by 5 percent for each additional absence.
 * Three or more unexcused absences will result in your failure in the class.
-* Be on Time. Tardiness will affect your grade. For every 10 minutes of tardiness, your final, numerical grade will drop by 0.5 percent. 
+* Be on Time. Tardiness will affect your grade. For every 10 minutes of tardiness, your final numerical grade will drop by 1 percent. 
 * Contact the professor at least 24h in advance by email if you will not be in class. 
 * absence to observe religious holidays will not be penalized, however the students should give prior notice as described above. 
 * if you miss class because of illness or personal issue, let me know immediately via email. **You must also submit documentation to Deanna Rayment at deanna.rayment@nyu.edu.** Until I receive notification from her, any absence will be considered unexcused. 
-* Late assignments will be penalized by 1/2 grade point for each day past due date. 
+* Late assignments will be penalized by 1/2 grade for each day past due date. 
 
 ### **ACADEMIC HONESTY**
 

@@ -1,7 +1,7 @@
 # [Week 1 - Wed September 6](week1.md)
 * Class introductions
 * Ritual reading of the syllabus
-* [Jim Campbell's formula for computer art](https://www.jimcampbell.tv/portfolio/miscellaneous_references/)
+* Crash course on electricity and electronics
 
 # Week 2 - Monday September 11 & Wednesday September 13
 * Electricity basics
