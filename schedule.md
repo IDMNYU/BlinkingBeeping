@@ -5,8 +5,8 @@
 
 # Week 2 - Monday September 11 & Wednesday September 13
 * Electricity basics
-* your first build- [Atari punk console](/week1/apc.md)
-* Some basics about parts
+* Some notes about parts
+* your first build- [Atari punk console](/week2/apc.md)
 
 # Week 3 - Monday September 18 & Wednesday September 20
 * [buttons and switches](switches.md)
