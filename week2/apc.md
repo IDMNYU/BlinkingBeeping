@@ -1,6 +1,6 @@
 # Atari Punk Console
 
-The Atari Punk Console uses either two [555 timer chips]([https://www.dropbox.com/s/0zklerplnu7isn0/555_from_make.pdf?dl=0](https://www.ti.com/lit/ds/symlink/lm555.pdf), or one 556. It was originally called a “stepped tone generator”. You have an upcoming exhibition that needs to include an APC. You have a schematic and some video showing off the finished piece. The curator is pretty hip though, and believes that you should have some leeway in the interpretation of the piece.
+The Atari Punk Console uses either two [555 timer chips](https://www.ti.com/lit/ds/symlink/lm555.pdf), or one 556. It was originally called a “stepped tone generator”. You have an upcoming exhibition that needs to include an APC. You have a schematic and some video showing off the finished piece. The curator is pretty hip though, and believes that you should have some leeway in the interpretation of the piece.
 
 Working with the components you have in hand, recreate the circuit as described in the documentation below on a breadboard, then move it to a more finished copper-clad board, soldering he pieces into place.
 
