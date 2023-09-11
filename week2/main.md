@@ -10,7 +10,7 @@
   * 555 Timer from Make Electronics - distributed in Slack 
   * OPTIONAL - [Working with Wire](https://learn.sparkfun.com/tutorials/working-with-wire)
   * OPTIONAL - [How to use a breadboard](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard)
-  * OPTIONAL- [Forrest Mims Engineer Mini Notebook - the 555 Tier](https://drive.google.com/file/d/1m3dOh7MKPkySFT6H7UyY9sOtodHpRk52/view?usp=sharing)
+  * OPTIONAL- [Forrest Mims Engineer Mini Notebook - the 555 IC](https://drive.google.com/file/d/1m3dOh7MKPkySFT6H7UyY9sOtodHpRk52/view?usp=sharing)
 * Make (for class on Wed)
   * Build the rest of your [Atari Punk Console](apc.md). If you have access to different resistors, capacitors, or variable resistors, try using them in the circuit to generate dofferent sounds and kinds of interaction. 
 * Watch
