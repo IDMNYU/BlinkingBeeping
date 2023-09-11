@@ -7,7 +7,7 @@
   * Asatble, monstable, bistable
 * The APC on a breadboard
 * Read
-  * 555 Timer from Make Electronics - distributed in SLack 
+  * 555 Timer from Make Electronics - distributed in Slack 
   * OPTIONAL - [Working with Wire](https://learn.sparkfun.com/tutorials/working-with-wire)
   * OPTIONAL - [How to use a breadboard](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard)
   * OPTIONAL- [Forrest Mims Engineer Mini Notebook - the 555 Tier](https://drive.google.com/file/d/1m3dOh7MKPkySFT6H7UyY9sOtodHpRk52/view?usp=sharing)
