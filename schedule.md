@@ -3,7 +3,7 @@
 * Ritual reading of the syllabus
 * Crash course on electricity and electronics
 
-# Week 2 - Monday September 11 & Wednesday September 13
+# [Week 2 - Monday September 11 & Wednesday September 13](week2/main.md)
 * Electricity basics
 * Some notes about parts
 * your first build- [Atari punk console](/week2/apc.md)
