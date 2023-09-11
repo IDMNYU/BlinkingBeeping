@@ -5,7 +5,7 @@
 * circuit schematics
 * ICs & the 555 timer
   * Asatble, monstable, bistable
-* The APC on a breadboard
+* [The APC on a breadboard](apc.md)
 * Read
   * 555 Timer from Make Electronics - distributed in Slack 
   * OPTIONAL - [Working with Wire](https://learn.sparkfun.com/tutorials/working-with-wire)
