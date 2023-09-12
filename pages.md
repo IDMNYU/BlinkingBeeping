@@ -6,7 +6,7 @@
 * [Lianna](https://lianna-poblete.notion.site/lianna-poblete/Blinking-Beeping-Moving-Sensing-035a49067b0a4c45b0426771eadd4e7a)
 * [Junyoung Oh](https://wp.nyu.edu/tandonschoolofengineering-blinkingbeeping_jo2313_fa23/)
 * [adir](https://github.com/durrlanders/blinkingbeepingmoving)
-* [Christina W]()
+* [Christina W](https://wp.nyu.edu/tandonschoolofengineering-onlinejournalchristina/)
 * [Anne-Marie](https://www.notion.so/Blinking-Beeping-Moving-Sensing-e793f3cf646b4d0dbf18828d5359fd23)
 * [Christina B](https://christinabaeblinkingbeeping.blogspot.com/?m=1)
 * [Kevin](https://medium.com/@zc2590)
@@ -14,4 +14,4 @@
 * [Sabria](https://www.notion.so/Sabria-Blinking-Beeping-92c266e23c9a45259f738f37110096dc)
 * [Sohini](https://sohinisblinkingbeepingblog.wordpress.com)
 * [Mario](https://www.notion.so/Blinking-Beeping-Moving-Sensing-a9aeaa21c14f44d39a78e14d54dcf305)
-
+* 
