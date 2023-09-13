@@ -28,4 +28,4 @@
   * [How to read a datasheet](https://www.sparkfun.com/tutorials/223)
 * Take the [online training and quiz](https://wp.nyu.edu/idmtech/) to use the soldering irons in the IDM Design Lab
 * Make
-  * [Solder your circuit onto a perfboard](https://vimeo.com/showcase/8018678). Put it inside an enclosure of some kind. Document this and put it on your blog. Why did you choose this enclosure? did you make any modifications to the circuit? What were they?
+  * [Solder your circuit onto a perfboard](https://vimeo.com/showcase/8018678). Put it inside an enclosure of some kind. Document this and put it on your blog. Why did you choose this enclosure? did you make any modifications to the circuit? What were they? Bonus - experiment with a plain old 555 timer (ask me!) and build one of the basic monstable or astable circuits from the [Forrest Mims 555 book](https://drive.google.com/file/d/1m3dOh7MKPkySFT6H7UyY9sOtodHpRk52/view?usp=sharing)
