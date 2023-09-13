@@ -26,5 +26,6 @@
   * [Soldering Crash Course: Basic Techniques, Tips and Advice!](https://www.youtube.com/watch?v=6rmErwU5E-k)
 * Read
   * [How to read a datasheet](https://www.sparkfun.com/tutorials/223)
+* Take the [online training and quiz](https://wp.nyu.edu/idmtech/) to use the soldering irons in the IDM Design Lab
 * Make
-  * Solder your circuit onto a perfboard. Put it inside an enclosure of some kind. Document this and put it on your blog. Why did you choose this enclosure? did you make any modifications to the circuit? What were they? 
+  * [Solder your circuit onto a perfboard](https://vimeo.com/showcase/8018678). Put it inside an enclosure of some kind. Document this and put it on your blog. Why did you choose this enclosure? did you make any modifications to the circuit? What were they?
