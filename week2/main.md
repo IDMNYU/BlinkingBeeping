@@ -19,9 +19,12 @@
 
 ## Wednesday
 * Reading a datasheet
-* solder demo and solder party
-* put your circuit on a perfboard
+* Experimenting with different sensors in the circuit
+* how the 555 works
+* solder demo 
 * Watch
   * [Soldering Crash Course: Basic Techniques, Tips and Advice!](https://www.youtube.com/watch?v=6rmErwU5E-k)
 * Read
-  * [How to read a datasheet](https://www.sparkfun.com/tutorials/223) 
+  * [How to read a datasheet](https://www.sparkfun.com/tutorials/223)
+* Make
+  * Solder your circuit onto a perfboard. Put it inside an enclosure of some kind. Document this and put it on your blog. Why did you choose this enclosure? did you make any modifications to the circuit? What were they? 
