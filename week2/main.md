@@ -21,3 +21,7 @@
 * Reading a datasheet
 * solder demo and solder party
 * put your circuit on a perfboard
+* Watch
+  * [Soldering Crash Course: Basic Techniques, Tips and Advice!](https://www.youtube.com/watch?v=6rmErwU5E-k)
+* Read
+  * [How to read a datasheet](https://www.sparkfun.com/tutorials/223) 
