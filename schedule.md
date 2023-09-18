@@ -8,7 +8,7 @@
 * Some notes about parts
 * your first build- [Atari punk console](/week2/apc.md)
 
-# Week 3 - Monday September 18 & Wednesday September 20
+# [Week 3 - Monday September 18 & Wednesday September 20](week3/main.md)
 * [buttons and switches](switches.md)
 * multimeters and other tools
 
