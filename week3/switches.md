@@ -5,7 +5,7 @@ But before discussing different types of switches and how they operate, let’s 
 
 These simple components control if a given circuit is open or closed. They allow current to flow through them when closed, and they keep that from happening when they are open. They’re super useful for user interaction and control systems.
 
-!(https://www.gaugemasterretail.com/media/rightlines/switch01.jpg)
+![](https://www.gaugemasterretail.com/media/rightlines/switch01.jpg)
 
 Switches have 2 states, on and off. When they are off, it’s like leaving a gap in a circuit. When they are on, they close the circuit, letting electricity flow to the rest of the system.
 
@@ -13,7 +13,7 @@ Switches have 2 states, on and off. When they are off, it’s like leaving a gap
 
 Generally, we can break switches into 2 groups : momentary and maintained.
 
-Think of momentary switches like buttons. It’s only active as long as you’re pressing it. These are most commonly used for user input (move up, change color, change the song). Arcade buttons, the small buttons we use in our breadboards, keypads, most anything with a nice “clicky” feel is probably a momentary switch. They come in all shapes and sizes.  Reed switches and those which activate through magnetism are also momentary switches. Take the magnetic field away from the switch, and it opens up.
+Momentary switches act like buttons. They are only active as long as they are being pressed. These are most commonly used for user input (move up, change color, change the song). Arcade buttons, the small buttons we use in our breadboards, keypads, most anything with a nice “clicky” feel is probably a momentary switch. They come in all shapes and sizes.  Reed switches and those which activate through magnetism are also momentary switches. Take the magnetic field away from the switch, and it opens up.
 
 Maintained switches stay in their state until you change it to something else. Light switches are examples of this. Power on/off, or toggles for different functionality are ideal uses. Common types include DIP switches, toggles slide switches, and latching buttons.
 
