@@ -11,7 +11,7 @@
 
 ## Wednesday
 * distribute kits in class - [register your kit](https://docs.google.com/spreadsheets/d/1eVxxaoraWHUMTKuCO0b_X3qMkFlgYVAzQqcpWimRemM/edit?usp=sharing)
-* what is this board anyhow
+* [what is this board anyhow](https://docs.arduino.cc/hardware/nano-33-ble)
 * more series & parallel
 * Read - [Everything you never wanted to know about switches](switches.md)
 * [Adafruit's guide on different types of switches](https://learn.adafruit.com/make-it-switch?view=all)
