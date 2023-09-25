@@ -15,7 +15,7 @@
 # [Week 4 - Monday September 25 & Wednesday September 27](week4/main.md)
 * Let's see those switches
 * Hello World of microcontrollers
-* digital input and output
+* [digital input and output](week4/week4.md)
 
 # Week 5 - Monday October 2 & Wed October 4
 * Presentations!
