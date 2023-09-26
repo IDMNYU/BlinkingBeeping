@@ -11,7 +11,7 @@
   * What do you think of the three elements of design (visceral, behavorial, and reflective) Norman describes? Are they sufficient? Is it too much hair splitting? Write a brief entry in your blog on these.
 
 ## Wednesday
-* Example of a research presentaion
+* [Example of a research presentation](tft.md)
 * [Digital Output](week4.md)
 * debouncing
 * **For Monday 10/2**
