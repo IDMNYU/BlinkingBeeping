@@ -4,7 +4,7 @@
 * check out your switches
 * [Arduino IDE, board definitions](week4.md)
 * [Digital Out, what's the deal with all those pins anyhow?](week4.md)
-* Blink without delay
+* [Blink without delay](https://gist.github.com/shfitz/ebcdd885c6dba4117ea96217d6777b47)
 * **For Wednesday 9/25**
 * Readings- 
   * [Read Prologue and Chapter 1, _Attractive Things Work Better_ from "Emotional Design" by Don Norman](https://ebookcentral-proquest-com.proxy.library.nyu.edu/lib/nyulibrary-ebooks/reader.action?docID=876410&ppg=16)
