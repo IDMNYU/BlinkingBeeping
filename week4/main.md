@@ -12,7 +12,7 @@
 
 ## Wednesday
 * [Example of a research presentation](tft.md)
-* [Digital Output](week4.md)
+* [Digital Input](week4.md)
 * debouncing
 * **For Monday 10/2**
   * Expand on the interaction from your switches from last week. Now that you can control more than one light and have different switches control different behaviors, combine your two switches into one system, or create a system that has multiple digital inputs and outputs. How can you make this more attractive to a user? Document your work on your blog.
