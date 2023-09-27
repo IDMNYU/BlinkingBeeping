@@ -1,8 +1,10 @@
 # TFT Screens & microcontrollers
+![Closeup of a TFT screen from https://commons.wikimedia.org/wiki/File:LCD_TFT_Screen_Closeup.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a4/LCD_TFT_Screen_Closeup.jpg?20100106212349)
 
 ## What is a TFT screeen anyhow?
 A TFT LCD is a thin-film-transistor liquid-crystal display.  
-Effectively, an LCD panel is a sandwich of liquid crystals (a funny type of matter that is, as the name implies, liquid and crystaline) and ploarized screens. When an electric current is passed through the crystals, they reorient themselves. By applying a variable voltage to each pixel element, the opacity of the pixel appears to change. When using this in conjunction with the various polarizing screens, it creates a specifci color. When mashed up closely in a dense screeen, we get the illusion of an image (when the right data is sent to the pixels).
+![How a TFT screen works from https://www.crystalfontz.com/blog/rgb-and-color-depth/](https://www.crystalfontz.com/blog/wp-content/uploads/tft.svg)
+Effectively, an LCD panel is a sandwich of liquid crystals (a funny type of matter that is, as the name implies, liquid and crystaline) and ploarized screens. When an electric current is passed through the crystals, they reorient themselves. By applying a variable voltage to each pixel element, the opacity of the pixel appears to change. When using this in conjunction with the various polarizing screens and color filters, every R/G/B triplet creates a single visual pixel. When mashed up closely in a dense screeen, we get the illusion of an image (when the right data is sent to the pixels).
 Because this technology relies on polarized filters, sigeways angles often will seem to lose focus, look washed out, have low contrast, or seem to disappear.
 
 ## How do you use one?
@@ -16,6 +18,7 @@ I've seen them in IoT devices, smart home devices, flip phones, [belt buckles](h
 
 ## Gimme a demo!
 ![TFT Screen Demo](tft_accel.gif)
+
 For this demo, I'm using an [Adafruit 1.14" 240x135 Color TFT Breakout LCD Display](https://www.adafruit.com/product/4383). This one is kinda nice as it not only has pretty vibrant color and a decent resolution, it also has a micr SD card reader attached, so you can show bitmap images on there too.
 The screen has a 250x135 resolution, and is driven by a [ST7789 chip](https://www.rhydolabz.com/documents/33/ST7789.pdf). The chip communicates via SPI (Serial Perihiperal Interface) and requires power, ground, a SPI clock, MOSI, CS, DC, and reset connection.
 
