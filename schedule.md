@@ -17,25 +17,24 @@
 * Hello World of microcontrollers
 * [digital input and output](week4/week4.md)
 
-# Week 5 - Monday October 2 & Wed October 4
+# [Week 5 - Monday October 2 & Wed October 4](week5/main.md)
 * Presentations!
 * discussion of reading
 * Show your work
 * analog input and output
-* Midterm party
+* [Midterm intro](midterm.md)
 
 # Week 6 - Tuesday October 10 & Wed October 11
 * Presentations!
 * show your work
 * midterm check in
-* servos, sounds, and other things
-  * silly scopes
-  * resistor ladders
-  * knock sensors
+* silly scopes
+* resistor ladders
+* knock sensors
 
 # Week 7 - Monday October 16 & Wednesday October 18
 * Midterm Presentations!
-* Serial Examples
+* Serial Communication
 * Assignments
   * Take home quiz
   * Observation Project.
@@ -61,7 +60,7 @@
 # Week 11 - Monday November 13 & Wednesday November 15
 * presentations
 * Microcontrollers and the internet
-* Assignment - Pull data from a public API and use that as a method to change soemthing with your microcontroller - a Servo, an LED, etc. Think about how this augments and changes your understanding of the data. Document your project and write about it. 
+* Assignment - Pull data from a public API and use that as a method to change something with your microcontroller - a Servo, an LED, etc. Think about how this augments and changes your understanding of the data. Document your project and write about it. 
 * Final project proposals - Come up with a proposal for what you would like to do for a final project. 
 
 # Week 12 - Monday November 20 
@@ -70,7 +69,7 @@
 
 # Week 13 - Monday November 27 & Wednesday November 29
 * presentations
-* machine learning on the ble33
+* machine learning on the ble 33
 * final project one on one meetings
 
 # Week 14 - Monday December 4 & Wednesday December 6
