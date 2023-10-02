@@ -33,25 +33,25 @@ void loop(){
 ```
 Now that we have our code, let’s look at the circuit. The LED on pin 2 should be familiar from earlier week. Our sensor will be connected to pin A0. The easiest thing to get started with is a potentiometer.
 
-A potentiometer is a self contained [voltage divider](https://learn.sparkfun.com/tutorials/voltage-dividers), often appearing as a knob or slider. The inside of a pot looks like this : (many thanks to [Jeff Fedderson for the image](http://fddrsn.net/pcomp/examples/potentiometers.html)) :
+A potentiometer is a self contained [voltage divider](https://learn.sparkfun.com/tutorials/voltage-dividers), often appearing as a knob or slider. The inside of a pot looks like this : 
 
-![a pot](http://cc.droolcup.com/wp-content/uploads/2015/07/potentiometer1.gif)
+![a pot](https://www.derf.com/wp-content/uploads/2021/01/Variable-Resistor-Diagram.png)
 
 The center pin acts as a wiper moving across the resistive material. The voltage coming off the center pin (the wiper) increases the further it moves away from pin A, where power is applied. We measure the voltage of the center pin on the Arduino. Potentiometers are not polarized, so A&B are interchangeable.
 
-![analog input UNO](http://cc.droolcup.com/wp-content/uploads/2015/07/pot.png)
+![analog input UNO](nanoPot_bb.png)
 
 For other analog sensors (photocells, FSRs, flex sensors, etc.), you need to build a small circuit with a pulldown resistor, just like with the switches you worked with previously. In this case, you’re building your own voltage divider. A general rule of thumb for selecting the proper resistor value is to match the maximum sensor resistance. If you aren’t sure, start with a 10k resistor and see what your output is like.
 
-![analog input uno photocell](http://cc.droolcup.com/wp-content/uploads/2015/07/photocell.png)
+![analog input uno photocell](photocellNano_bb.png)
 
 One more thing that will help you involves another new function called [Serial.println()](https://www.arduino.cc/en/Serial/println) This sends information from the Arduino back to your computer. You can use the build in serial monitor to see this information. The serial monitor can be accessed through the Tools menu :
 
-![serial monitor](http://cc.droolcup.com/wp-content/uploads/2015/07/Screen-Shot-2015-07-14-at-3.51.00-PM-300x117.png)
+![serial monitor](https://docs.arduino.cc/static/5bfe133bdf2e1cdfe89194423d310cda/29114/serial-monitor-new-editor.png)
 
 You can also access it by clicking on the magnifying glass icon on the right side of the main bar :
 
-![not a duck](http://cc.droolcup.com/wp-content/uploads/2015/07/Screen-Shot-2015-07-14-at-3.50.35-PM-300x20.png)
+![not a duck](https://docs.arduino.cc/static/e534053def4bc0eb97a3b6ba9cf31853/29114/ide-2-overview.png)
 
 To start sending information serially, you must include [Serial.begin()](https://www.arduino.cc/en/Serial/begin) in your setup(). It takes an argument that indicates how fast it will communicate with your computer. For the time being, use 9600.
 ```C++
