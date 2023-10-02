@@ -1,4 +1,5 @@
 # Week 5 - Monday October 2 & Wed October 4
+## Monday
 * Presentation!
 * how bout them switches?
 * analog input 
