@@ -1,15 +1,15 @@
 # Week 5 - Monday October 2 & Wed October 4
 ## Monday
-* Presentation!
+* Presentation by Lianna & Riley
 * how bout them switches?
 * analog input 
-* analog output (PWM an LED)
 * [midterm intro](../midterm.md)
 * Readings for Wed - 
   * [Notes on analog input and output](week5.md)
   * [Phsyical Computing's Greatest Hits and Misses](https://www.tigoe.com/blog/category/physicalcomputing/176/)
 
 ## Wednesday
+* analog output (PWM an LED)
 * servo motors & libraries
 * tone()
 
