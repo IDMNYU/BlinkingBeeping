@@ -3,7 +3,7 @@ This far, we’ve worked with digital sensors, that is, things that are either o
 
 The physical world exists along a spectrum, and fortunately for us, there are a wide variety of sensors that can get information about the physical world. With some sleight of hand, we can teach computers about the world around us. We’ll address a few of the many different types of sensors in a little bit. First, how do we trick the computer?
 
-On your Arduino, there’s a special circuit called an ADC (an analog to digital converter). This samples the voltage on the analog input pins (A0-A5 on an Uno, A0-A7 on your Nano BLE 33) allowing us to translate voltage into a numeric representation. Different microcontrollers have different sampling resolutions. The Arduinos we are using have a 10-bit resolution. This means we can get a value between 0-1023 that represents the analog voltage on the pin (1024 total steps). 0 corresponds to 0 volts, 1023 corresponds to 3.3v, and everything else maps neatly in between (512 is 2.5V, 768 is 3.75V, etc). An int is the ideal data to to store this in.
+On your Arduino, there’s a special circuit called an ADC (an analog to digital converter). This samples the voltage on the analog input pins (A0-A5 on an Uno, A0-A7 on your Nano BLE 33) allowing us to translate voltage into a numeric representation. Different microcontrollers have different sampling resolutions. The Arduinos we are using have a 10-bit resolution. This means we can get a value between 0-1023 that represents the analog voltage on the pin (1024 total steps). 0 corresponds to 0 volts, 1023 corresponds to 3.3v, and everything else maps neatly in between (512 is 1.68V, 768 is 2.5V, etc). An int is the ideal data to to store this in.
 
 To get the voltage on an analog pin, call [analogRead()](https://www.arduino.cc/en/Reference/analogRead). This takes one argument, the pin you wish to read the value from.
 ```C++
@@ -68,7 +68,7 @@ void loop(){
     delay(2);// slight pause for the cause
 }
 ```
-If you’re using a sensor that runs off of a voltage less than 5V, you will not get the full resolution of the sensor unless you call the [analogReference()](https://www.arduino.cc/en/Reference/analogReference) function and provide the Arduino with the appropriate reference voltage on the AREF pin.
+If you’re using a sensor that runs off of a voltage less than 3.3V, you will not get the full resolution of the sensor unless you call the [analogReference()](https://www.arduino.cc/en/Reference/analogReference) function and provide the Arduino with the appropriate reference voltage on the AREF pin.
 
 So far, we’ve managed to get the microcontroller to read digital & analog inputs, and set a variety of fancy LED effects. Now it’s time to make some even more fancy things happen.
 
@@ -78,7 +78,7 @@ On your Arduino, you’ll notice that there are some digital pins with a ~ next 
 
 PWM is a method in which you pulse a pin on and off rapidly to give the illusion of a variable voltage. This is also called an effective voltage. The Arduino has an 8-bit PWM, which means there are 256 discrete steps available to us. In each period the pin will be pulled HIGH for a fraction of the time and LOW for the rest. The percentage of time this rapid on/off happens can be described as the duty cycle.
 
-The method for communicating with the Arduino is called [analogWrite()](https://www.arduino.cc/en/Reference/AnalogWrite). It takes two arguments. The first argument is the pin you’re communicating with. The second argument is the value you wish to write. 0 is the same as 0V, 255 is the same a 5V. 127 would be 2.5V, and everything else in between maps out linearly.
+The method for communicating with the Arduino is called [analogWrite()](https://www.arduino.cc/en/Reference/AnalogWrite). It takes two arguments. The first argument is the pin you’re communicating with. The second argument is the value you wish to write. 0 is the same as 0V, 255 is the same a 3.3V. 127 would be 1.65V, and everything else in between maps out linearly.
 
 It’s pretty simple to hook up a pot to an analog input and use that to control an LED’s brightness. Remember though, analogRead() returns a value between 0-1023, while analogWrite() only goes between 0-255. 256 goes into 1024 four times- we can divide the A0 reading by 4 to get a nice mapping between the two :
 ```C++
