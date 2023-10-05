@@ -1,4 +1,3 @@
-
 Related to PWM, but different, is frequency modulation. We can use this in conjunction with a small speaker or piezo element to generate a sound. In PWM, there’s a fixed frequency. With [tone()](https://www.arduino.cc/en/Reference/tone), you can change the frequency of a duty cycle fixed at 50%. In this example, there are switches attached to pins 2, 3 & 4.
 ```C++
 void setup(){
@@ -82,8 +81,3 @@ void loop() {
 }
 ```
 One thing to note about servos is that their wire color can vary. If you have a servo that has a black and red cable, you can safely assume red is power, black is ground, and the third wire is your signal. If you have one that's orange, red brown, I've found this is generally the proper wiring : red is 5v, brown is ground, and orange is the signal. If you have something different, search for the model number of the servo online, or look up something like "servo wires " + the colors of the wires.
-
-* Midterm party
-  * Your midterm project is a group project. You will work in pairs. You need to build a physically interactive system that has some sort of physical input and output. There are a number of different ways this project can be approached, we will discuss in class. You will have a few weeks to build this, but every week in the process you are expected to show steady progress in its completion. While only one member of a group needs to write about the project, the other needs to link to the post from their site. You will present these in class, they should be functional and usable by other members of the class when you present the project. Hide the wires and breadboard and electronis as much as possible inside an enclosure, you want this to be presentable. Document your work well. If your presentation fails, you should still be able to show a working project through clear video documentation.
-* Assignment
-  * Work with your partner on your midterm project. Be prepared to show it in class next week. On one of your journals document the project- this includes (at least) a description of the project- a "what and why", how it works- a technical description or "how", what you could do to improve on this in the future, and a video or photos of it working. You will all present these in class next week.
