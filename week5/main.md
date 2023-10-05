@@ -9,10 +9,9 @@
   * [Phsyical Computing's Greatest Hits and Misses](https://www.tigoe.com/blog/category/physicalcomputing/176/)
 
 ## Wednesday
-* analog output (PWM an LED)
-* servo motors & libraries
-* tone()
-
+* [analog output (PWM an LED)](week5.md)
+* [servo motors & libraries](servos_and_tone.md)
+* [tone()](servos_and_tone.md)
 * Homework -
   * Read -  [A Taxonomy of Tangible User interfaces](http://courses.ischool.berkeley.edu/i262/f13/readings_pdf/taxonomy.pdf)
   * [All about LEDs](https://learn.sparkfun.com/tutorials/light-emitting-diodes-leds/all)
