@@ -24,7 +24,7 @@
 * analog input and output
 * [Midterm intro](midterm.md)
 
-# Week 6 - Tuesday October 10 & Wed October 11
+# [Week 6 - Tuesday October 10 & Wed October 11](week6/main.md)
 * Presentations!
 * show your work
 * midterm check in
