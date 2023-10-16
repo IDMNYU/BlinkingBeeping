@@ -32,9 +32,9 @@
 * resistor ladders
 * knock sensors
 
-# Week 7 - Monday October 16 & Wednesday October 18
-* Midterm Presentations!
+# [Week 7 - Monday October 16 & Wednesday October 18](week7/main.md)
 * Serial Communication
+* Midterm Presentations!
 * Assignments
   * Take home quiz
   * Observation Project.

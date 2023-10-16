@@ -5,7 +5,7 @@ We’ll send some information from the Arduino to a p5js sketch, then do the rev
 
 Our Arduino sketches cannot speak to the browser directly. We need to install some software which will enable communication between the two.
 
-These examples use the (p5.webserial library)[https://github.com/gohai/p5.webserial/]
+These examples use the [p5.webserial library](https://github.com/gohai/p5.webserial/)
 
 We can re-use some of our earlier Arduino sketches to communicate with the browser. Let’s revisit the analog output sketch we did :
 ```C++
@@ -37,7 +37,7 @@ void loop() {
   outputValue = map(sensorValue, 0, 1023, 0, 255);
   // print the results to the serial monitor:
   Serial.write(outputValue);
-  // wait a millisecondsbefore the next loop
+  // wait a millisecond before the next loop
   // for the analog-to-digital converter to settle
   // after the last reading:
   delay(2);
@@ -180,216 +180,107 @@ Awesome! We should see a graph of our sensor!
 Sending to Arduino from p5js
 Arduino code
 ```C++
-const int ledPin = 13; // the pin that the LED is attached to
-int incomingByte;      // a variable to read incoming serial data into
+const int ledPin = 2;  // the pin that the LED is attached to
 
 void setup() {
-  // initialize serial communication:
-  Serial.begin(9600);
-  // initialize the LED pin as an output:
+  // initialize the serial communication:
+  Serial.begin(57600);
+  // initialize the ledPin as an output:
   pinMode(ledPin, OUTPUT);
 }
 
 void loop() {
-  // see if there's incoming serial data:
-  if (Serial.available() > 0) {
-    // read the oldest byte in the serial buffer:
-    incomingByte = Serial.read();
-    // if it's a capital H (ASCII 72), turn on the LED:
-    if (incomingByte == 'H') {
-      digitalWrite(ledPin, HIGH);
-    }
-    // if it's an L (ASCII 76) turn off the LED:
-    if (incomingByte == 'L') {
-      digitalWrite(ledPin, LOW);
-    }
+  byte brightness;
+
+  // check if data has been sent from the computer:
+  if (Serial.available()) {
+    // read the most recent byte (which will be from 0 to 255):
+    brightness = Serial.read();
+    // set the brightness of the LED:
+    analogWrite(ledPin, brightness);
   }
 }
 
 ```
 
 p5js
-```javascript
 
-var serial;                             // variable to hold an instance of the serialport library
-var portName = '/dev/cu.usbmodem141301';  // fill in your serial port name here
+```javascript
+// slider in p5 to arduino
+
+let port; // object to hold serial port
+let c, s; // buttons
+let ledVal; // slider
+let auto = false;
 
 function setup() {
-  createCanvas(400, 300);
-  serial = new p5.SerialPort();       // make a new instance of the serialport library
-  serial.on('list', printList);       // set a callback function for the serialport list event
-  serial.on('connected', serverConnected); // callback for connecting to the server
-  serial.on('open', portOpen);        // callback for the port opening
-  serial.on('data', serialEvent);     // callback for when new data arrives
-  serial.on('error', serialError);    // callback for errors
-  serial.on('close', portClose);      // callback for the port closing
+  createCanvas(windowWidth, windowHeight);
+  //colors
+  colorMode(HSB);
 
-  serial.list();                      // list the serial ports
-  serial.open(portName);              // open a serial port
+  // create instance of the lib
+  port = createSerial();
+
+  // ports can be opened via a dialog after
+  // user interaction (see connectBtnClick below)
+  c = createButton('Connect to Arduino');
+  c.position(10, 10);
+  c.mousePressed(connectBtnClick);
+
+  s = createButton('toggle Auto on');
+  s.position(c.width + 10, 10);
+  s.mousePressed(toggleAuto);
+
+  ledVal = createSlider(0, 255, 0);
+  ledVal.position(10, 50);
 }
 
 function draw() {
-  // black background, white text:
-  background(0);
-  fill(255);
-  // display the incoming serial data as a string:
-  text("sensor value: " + inData, 30, 30);
-  printData("sensor value: " + inData);
-}
-// get the list of ports:
-function printList(portList) {
-  // portList is an array of serial port names
-  for (var i = 0; i < portList.length; i++) {
-    // Display the list the console:
-    console.log(i + " " + portList[i]);
+  noStroke();
+  background(220, 100, 0);
+  if (auto) {
+    let newVal = int(map(sin(frameCount / 100), -1, 1, 0, 255));
+    ledVal.value(newVal);
   }
-}
-
-function serverConnected() {
-  console.log('connected to server.');
-}
-
-function portOpen() {
-  console.log('the serial port opened.')
-}
-
-function serialEvent() {
-
-// nothinhg here
-}
-
-function serialError(err) {
-  console.log('Something went wrong with the serial port. ' + err);
-}
-
-function portClose() {
-  console.log('The serial port closed.');
-}
-
-
-function printData(inString) {
-// nothing here
-}
-
-function mousePressed() {
-  if (value === 0) {
-    serial.write(0);
+  let toSend = ledVal.value();
+  let b = map(toSend, 0, 255, 0, 100);
+  let sz = map(toSend, 0, 255, 1, width);
+  fill(50, 100, b);
+  ellipse(width / 2, height / 2, sz);
+  port.write(toSend);
+  // changes button label based on connection status
+  if (!port.opened()) {
+    c.html('Connect to Arduino');
   } else {
-    serial.write(1);
+    c.html('Disconnect');
+  }
+
+  // changes button label based on connection status
+  if (!auto) {
+    s.html('toggle Auto on');
+  } else {
+    s.html('toggle Auto off');
+  }
+
+}
+// if the connect button is clicked and there's
+// no connection, look for something named
+// "Arduino"
+function connectBtnClick() {
+  if (!port.opened()) {
+    port.open('Arduino', 57600);
+  } else {
+    port.close();
   }
 }
 
-```
-
-a slight digression into how 32 == the space bar, and 27 == the escape key.
-
-The call and response method of exchanging data is a reliable and effective way you can communicate between machines. Here’s an Arduino layout and program that waits for a byte before it sends data to a p5.js sketch. there's a switch connected to pin 7, and 2 pots or other analog sensors, connected to A0 and A1.
-```C++
-void setup() {
-  Serial.begin(9600);
-  pinMode(7, INPUT);
-
-  while (Serial.available() <= 0) {
-    Serial.println("hello");
-    delay(300);
+function toggleAuto() {
+  auto = !auto;
+  if (!auto) {
+    ledVal.position(10, 50);
+  } else {
+    ledVal.position(-1000, -1000);
   }
 }
 
-void loop() {
-  if (Serial.available() > 0) {
-    int inByte = Serial.read();
-    //we did it to slow things down for synchronization
-    //notice we didn't even put the number in anything
-
-    int pot1 = analogRead(A0);
-    int pot2 = analogRead(A1);
-    int button = digitalRead(7);
-    Serial.print(pot1);  //notice I did not say println
-    Serial.print(",");
-    Serial.print(pot2);
-    Serial.print(","); //using the comma as a delimiter
-    Serial.println(button);
-  }
-}
-```
-
-And the associated js code
-```javascript
-
-var serial; // variable to hold an instance of the serialport library
-var portName = '/dev/cu.usbmodem1421'; // fill in your serial port name here
-var xPos = 0;
-var yPos = 0; // y location of the circle
-var circleColor = 255; // color of the circle
-
-function setup() {
- createCanvas(640, 480); // make canvas
- background(0); // black background
- serial = new p5.SerialPort(); // make a new instance of the serialport library
- serial.on('list', printList); // set a callback function for the serialport list event
- serial.on('connected', serverConnected); // callback for connecting to the server
- serial.on('open', portOpen); // callback for the port opening
- serial.on('data', serialEvent); // callback for when new data arrives
- serial.on('error', serialError); // callback for errors
- serial.on('close', portClose); // callback for the port closing
-
- serial.list(); // list the serial ports
- serial.open(portName); // open a serial port
-}
-
-
-function draw(){
- background(255, 255, 0);
- fill(circleColor); // fill depends on the button
- ellipse(xPos, yPos, 50, 50); // draw the circle
- print("circle color: " + circleColor);
-}
-
-
-function serialEvent() {
- // read a string from the serial port
- // until you get carriage return and newline:
- var inString = serial.readStringUntil('\r\n');
-
- //check to see that there's actually a string there:
-
- if (inString.length > 0) {
-
- if (inString !== "hello") {
-
- inString = inString.trim(); // get rid of whitepace
-
- var sensors = split(inString, ','); // split the string on the commas
-
- if (sensors.length > 1) { // if there are more than 1 element
-  yPos = map(Number(sensors[0]), 0, 1023, 0, height); // element 0 is the ypos
-  xPos = map(Number(sensors[1]), 0, 1023, 0, width); // element 1 is the xPos
-  circleColor = 255 - (Number(sensors[2]) * 255); // element 2 is the button
-  }
- }
- serial.write('x');
- }
-}
-
-function serialError(err) {
- println('Something went wrong with the serial port. ' + err);
-}
-
-function portClose() {
- println('The serial port closed.');
-}
-
-function printList(portList) {
- for (var i = 0; i < portList.length; i++) {
- println(i + " " + portList[i]);
- }
-}
-
-function serverConnected() {
- println('connected to server.');
-}
-
-function portOpen() {
- println('the serial port opened.')
-}
 ```
