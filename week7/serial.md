@@ -5,7 +5,7 @@ We’ll send some information from the Arduino to a p5js sketch, then do the rev
 
 Our Arduino sketches cannot speak to the browser directly. We need to install some software which will enable communication between the two.
 
-These examples use the (p5.webserial ibrary)[https://github.com/gohai/p5.webserial/]
+These examples use the (p5.webserial library)[https://github.com/gohai/p5.webserial/]
 
 We can re-use some of our earlier Arduino sketches to communicate with the browser. Let’s revisit the analog output sketch we did :
 ```C++
