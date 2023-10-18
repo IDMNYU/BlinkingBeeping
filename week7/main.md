@@ -2,6 +2,7 @@
 ## Monday
 * Check in with midterm questions
 * [Quick intro to Serial Communication](serial.md)
+* [Notes on ASCII](ascii.md)
 * Homework - finish your midterm project
 
 ## Wednesday
