@@ -2,7 +2,7 @@
 ## Monday
 * Presentation by Adir & Junyoung 
 * Take-home quiz review
-* [Quick intro to Serial Communication](week7/serial.md)
+* [Quick intro to Serial Communication](../week7/serial.md)
 * Homework - build a circuit that pairs with the interface you wrote code for. Send out sensor data serially if your interface is designed to communicate with an application, or enable it to read serial data if it is meant to be responsive. Over the weekend, you will get the two to communucate with one another. 
 
 ## Wednesday
