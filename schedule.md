@@ -39,37 +39,31 @@
   * Take home quiz
   * Observation Project.
  
-# Week 8 - Monday October 23 & Wednesday October 25
+# [Week 8 - Monday October 23 & Wednesday October 25](week8/main.md)
 * Presentations!
+* Serial examples
 * BLE and internal sensors
-* Assignment
-  * Observation Assignment - rethinking a physical interface.
+* Assignment for 10/30
+  * Create a sketch in the program of your choice that communicates with your microcontroller. Post a video of this on your blog. What are you making?
 
 # Week 9 - Monday October 30 & Wednesday November 1
 * Presentations!
-* Observation assignment results
-* Other communication protocols - SPI / I2C
-* Assignment
-  * Create a sketch in the program of your choice that communicates with your microcontroller. Post a video of this on your blog. What are you making?
+* Sertial communication results
+* Lots of LEDs
+
  
 # Week 10 - Monday November 6 & Wednesday November 8
 * presentations
-* lots of lights with LEDs
-* assignment - Make something with LED strips. This can be reactive to a sensor, or a standalone piece. Document it on your website.
+* Motors and things that move
 
 # Week 11 - Monday November 13 & Wednesday November 15
-* presentations
-* Microcontrollers and the internet
-* Assignment - Pull data from a public API and use that as a method to change something with your microcontroller - a Servo, an LED, etc. Think about how this augments and changes your understanding of the data. Document your project and write about it. 
+* machine learnig on the BLE33
 * Final project proposals - Come up with a proposal for what you would like to do for a final project. 
 
 # Week 12 - Monday November 20 
-* presentations
 * Final project proposals
 
 # Week 13 - Monday November 27 & Wednesday November 29
-* presentations
-* machine learning on the ble 33
 * final project one on one meetings
 
 # Week 14 - Monday December 4 & Wednesday December 6
