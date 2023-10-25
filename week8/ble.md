@@ -11,7 +11,10 @@ BLE devises are either _central_ or _peripherals_. Peripheral devices offer serv
 
 Peripherals have _services_ which have _characteristics_. Characteristics have _values_, which central devices can _read_, _write_, or _subscribe_ to.  My watch, for example, may have a "health" service, which has "pulse", "sleep", and "steps" characteristics.
 
-Read and write operations are requested by a central device while a peripheral responds (or acknowledges). Subscribing to a characteristic allows the peripheral to notify a central device that a value has changed.
+* Read: ask the peripheral to send back the current value of the characteristic. Often used for characteristics that don’t change very often, for example characteristics used for configuration, version numbers, etc.
+* Write: modify the value of the characteristic. Often used for things that are like commands, for example telling the peripheral to turn a motor on or off.
+* 
+(Subscribe) Indicate and Notify: ask the peripheral to continuously send updated values of the characteristic, without the central having to constantly ask for it.
 
 ![bulletin board model of BLE communication from Arduino](https://raw.githubusercontent.com/arduino-libraries/ArduinoBLE/master/docs/assets/ble-bulletin-board-model.png)
 
@@ -55,3 +58,14 @@ There is a [p5js ble library](https://itpnyu.github.io/p5ble-website/) that allo
 
 ### sending data to p5 from the Arduino
 [This Arduino sketch](https://gist.github.com/shfitz/c709a069851b853968675b32f87c7d60) has a button connected to pin 2. When the button state changes, it sends a 1 or a 0 to a conected Central device. In this case, we change a circle to a square [in a p5 sketch](../code/ble-examples/buttonTop5/). The code for the p5 sketch [can be found here](https://github.com/IDMNYU/BlinkingBeeping/tree/master/code/ble-examples/buttonTop5).
+
+### Connect 2 Arduinios together via BLE
+The BLE library allows microcontrollers to act as central devices too! 
+
+In the Arduino IDM, go to File->Examples->ArduinoBLE->Central->LedControl. Upload this to a board with a button attached to pin 2. After initializing the BLE library in setup(), [BLE.scanForUuid()](https://www.arduino.cc/reference/en/libraries/arduinoble/ble.scanforuuid/) looks for a specific UUID advertised by a peripheral. 
+
+This example is thorough in its checking for characteristics that match exactly the peripheral we want to speak to. This makes it quite reliable. 
+
+In the loop() of the program, it will connect to a peripheral, verify the local name (something that IDs it as yours), and stop scanning when it finds the appropriate peripheral. The controlled() function checks to make sure it's connected and [looks for any attributes](https://www.arduino.cc/reference/en/libraries/arduinoble/bledevice.discoverattributes/). This allows us to retreive the characteristics - in this case, it searches for the specific one to controll the LED. It checks to make sure the peripheral's characteristic is writable, then reads the value of the button, sening a byte of 1 or 0 if the switch has changed since the last time it was read.
+
+The peripheral code (found in File->Examples->ArduinoBLE->Peripheral->LED) uses the exat same peripheral code we used previously in our first exampel, but only receiving an on/off instead of a value of 0-255.
