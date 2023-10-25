@@ -2,18 +2,19 @@ const serviceUuid = "42a543da-b786-4882-8ed6-c0f8c39e8e1b";
 let myCharacteristic;
 let slide;
 let myBLE;
+let b;
 
 function setup() {
   myBLE = new p5ble();
 
   // Create a 'Connect' button
-  const connectButton = createButton('Connect')
-  connectButton.mousePressed(connectToBle);
-  connectButton.position(15, 65);
+  b = createButton('Connect')
+  b.mousePressed(connectToBle);
+  b.position(10, 10);
 
   // Create a text input
   slider = createSlider(0, 255, 0);
-  slider.position(15, 100);
+  slider.position(10, 50);
 
 }
 
