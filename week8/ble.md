@@ -51,4 +51,4 @@ There is a [p5js ble library](https://itpnyu.github.io/p5ble-website/) that allo
 ></script>
 ```
 
-[This p5 example](../code/ble-examples) will allow you to connect to a browser and change the brightness of the LED with a slider.
+[This p5 example](../code/ble-examples/sliderToLED/p5-sketch) will allow you to connect to a browser and change the brightness of the LED with a slider.
