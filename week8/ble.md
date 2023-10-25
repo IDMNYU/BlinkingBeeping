@@ -50,5 +50,8 @@ There is a [p5js ble library](https://itpnyu.github.io/p5ble-website/) that allo
   type="text/javascript"
 ></script>
 ```
-
+### sending data to the Arduino from p5
 [This p5 example](../code/ble-examples/sliderToLED/p5-sketch) will allow you to connect to a browser and change the brightness of the LED with a slider. If you changed the UUID of your device, it won't work until you change the source and update the service to your  UUID in [the p5 sketch](https://github.com/IDMNYU/BlinkingBeeping/tree/master/code/ble-examples/sliderToLED/p5-sketch).  
+
+### sending data to p5 from the Arduino
+[This Arduino sketch](https://gist.github.com/shfitz/c709a069851b853968675b32f87c7d60) has a button connected to pin 2. When the button state changes, it sends a 1 or a 0 to a conected Central device. In this case, we change a circle to a square [in a p5 sketch](../code/ble-examples/buttonTop5/). The code for the p5 sketch [can be found here](https://github.com/IDMNYU/BlinkingBeeping/tree/master/code/ble-examples/buttonTop5).
