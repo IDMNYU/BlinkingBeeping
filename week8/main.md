@@ -7,6 +7,6 @@
 
 ## Wednesday
 * Presentation by Tiffany & Christia B. 
-* Bluetooth communication, accelerometer & gyroscope.
+* Bluetooth communication, accelerometer & gyroscope
 * Assignment for 10/30
-  * Create a sketch in the program of your choice that communicates with your microcontroller. Post a video of this on your blog. What are you making?
+  * Create a sketch in the program of your choice that communicates with your microcontroller. Post a video of this on your blog. 
