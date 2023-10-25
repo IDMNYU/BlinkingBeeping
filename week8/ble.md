@@ -42,7 +42,7 @@ You can use an application like [lightBlue](https://punchthrough.com/lightblue/)
 * Your scanner may be able to send hex, ASCII, or bytes to the connected device. 
 
 ## Connecting to p5.js
-There is a [p5js ble library](https://itpnyu.github.io/p5ble-website/) that allows Chrome to connnect to BLE devices. You can include the librsry in an index.html file like so : 
+There is a [p5js ble library](https://itpnyu.github.io/p5ble-website/) that allows Chrome to connnect to BLE devices. You can include the library in an index.html file like so : 
 
 ```HTML
 <script
@@ -51,4 +51,4 @@ There is a [p5js ble library](https://itpnyu.github.io/p5ble-website/) that allo
 ></script>
 ```
 
-[This p5 example](../code/ble-examples/sliderToLED/p5-sketch) will allow you to connect to a browser and change the brightness of the LED with a slider.
+[This p5 example](../code/ble-examples/sliderToLED/p5-sketch) will allow you to connect to a browser and change the brightness of the LED with a slider. If you changed the UUID of your device, it won't work until you change the source and update the service to your  UUID in [the p5 sketch](https://github.com/IDMNYU/BlinkingBeeping/tree/master/code/ble-examples/sliderToLED/p5-sketch).  
