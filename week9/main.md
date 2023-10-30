@@ -7,7 +7,10 @@
   * high power - bench supplies and blowing things up
 * Assignment - read up on addressable LEDs
 * Review artists who work with light
-  * 
+  * [Erwin Redl](http://www.paramedia.net/)
+  * [CHiKA](https://imagima.com/)
+  * [Leo Villareal](http://villareal.net/)
+  * [Geek Graffiti takes on NYC](https://www.wired.com/2006/04/geek-graffiti-takes-on-new-york/)
 
 ## Wednesday
 * Presentation by Sabria & Sohini
