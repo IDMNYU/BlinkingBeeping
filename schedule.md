@@ -46,11 +46,10 @@
 * Assignment for 10/30
   * Create a sketch in the program of your choice that communicates with your microcontroller. Post a video of this on your blog. What are you making?
 
-# Week 9 - Monday October 30 & Wednesday November 1
+# [Week 9 - Monday October 30 & Wednesday November 1](week9/main.md)
 * Presentations!
-* Sertial communication results
+* Serial communication results
 * Lots of LEDs
-
  
 # Week 10 - Monday November 6 & Wednesday November 8
 * presentations
