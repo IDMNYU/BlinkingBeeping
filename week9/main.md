@@ -5,10 +5,12 @@
 * [ledCalculator](https://ledcalculator.net)
 * let's chat about LEDs
   * high power - bench supplies and blowing things up
-* Review artists who work with light
+* Review artists who work with light - what inspires you with their work? Think about the kind of experiences you can create with light and interacion
   * [Erwin Redl](http://www.paramedia.net/)
   * [CHiKA](https://imagima.com/)
   * [Leo Villareal](http://villareal.net/)
+  * [Jen Lewin](https://www.jenlewinstudio.com/)
+  * [James Clar](https://www.jamesclar.com/)
   * [Geek Graffiti takes on NYC](https://www.wired.com/2006/04/geek-graffiti-takes-on-new-york/)
 
 ## Wednesday
