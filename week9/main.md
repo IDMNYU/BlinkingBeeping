@@ -5,7 +5,6 @@
 * [ledCalculator](https://ledcalculator.net)
 * let's chat about LEDs
   * high power - bench supplies and blowing things up
-* Assignment - read up on addressable LEDs
 * Review artists who work with light
   * [Erwin Redl](http://www.paramedia.net/)
   * [CHiKA](https://imagima.com/)
