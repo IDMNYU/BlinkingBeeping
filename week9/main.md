@@ -15,6 +15,6 @@
 
 ## Wednesday
 * Presentation by Sabria & Sohini
-* addressable leds
+* [addressable leds](leds.md)
 * Assignment for 11/8
-  * create a sketch for 2 parallel lines of LEDs, each 80 pixels long using the neopixel library. Alternatively, if you have your own addressable LEDs, use those in a small scale project. 
+  * create a sketch for 2 parallel lines of LEDs, each 120 pixels long using the neopixel library. Alternatively, if you have your own addressable LEDs, use those in a small scale project. Or use the LED matrix. Blind us.
