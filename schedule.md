@@ -51,12 +51,12 @@
 * Serial communication results
 * Lots of LEDs
  
-# Week 10 - Monday November 6 & Wednesday November 8
+# [Week 10 - Monday November 6 & Wednesday November 8](week10/main.md)
 * presentations
 * Motors and things that move
 
 # Week 11 - Monday November 13 & Wednesday November 15
-* machine learnig on the BLE33
+* machine learning on the BLE33
 * Final project proposals - Come up with a proposal for what you would like to do for a final project. 
 
 # Week 12 - Monday November 20 
