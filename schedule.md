@@ -60,7 +60,7 @@
 * Final project proposals - Come up with a proposal for what you would like to do for a final project. 
 
 # Week 12 - Monday November 20 
-* Final project proposals
+* Final project pitches
 
 # Week 13 - Monday November 27 & Wednesday November 29
 * final project one on one meetings

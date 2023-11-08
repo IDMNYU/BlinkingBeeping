@@ -22,4 +22,4 @@
 * rotary encoders
 * Assignement :
   * _Read_ : _Making Things Move_ [Chapter 9 "Making Things and Getting Things Made"](https://www-accessengineeringlibrary-com.proxy.library.nyu.edu/content/book/9780071741675/chapter/chapter9). Access provided by NYU Libraries.
-
+  * Using a motor (this could be your servo, or a brushed DC motor, or a stepper) or solenoid, create a system that moves to convey information - an indicator, or for responsove behavior. This could be a puppet, a sound maker, a geared system, or some other phsical device. Challenge yourself - can you control a system from a web interface, or can you have this system respond to an input of some sort? Document this on your blog.
