@@ -55,7 +55,7 @@
 * presentations
 * Motors and things that move
 
-# Week 11 - Monday November 13 & Wednesday November 15
+# [Week 11 - Monday November 13 & Wednesday November 15](week11/main.md)
 * machine learning on the BLE33
 * Final project proposals - Come up with a proposal for what you would like to do for a final project. 
 
