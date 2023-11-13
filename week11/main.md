@@ -3,7 +3,7 @@
 ## Monday
 * Anything else about motors?
 * A quick introduction to machine learning
-* TFLite
+* [TFLite](https://github.com/tensorflow/tflite-micro-arduino-examples)
 * [Tiny motion trainer](https://experiments.withgoogle.com/tiny-motion-trainer/view/)
 * **For Wednesday 11/15**
 * Readings- 
