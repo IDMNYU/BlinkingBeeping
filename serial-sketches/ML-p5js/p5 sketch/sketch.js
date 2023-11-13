@@ -29,7 +29,6 @@ function draw() {
     fill(255);
     rect(0, 0, 200, 30);
     fill(0);
-
     text(str, 100, 100);
   }
   // changes button label based on connection status
