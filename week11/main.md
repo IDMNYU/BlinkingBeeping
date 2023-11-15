@@ -14,10 +14,13 @@
   * [Introduction to Generative AI](https://www.youtube.com/watch?v=G2fqAlgmoPo) 20 minute yt video from Google on Generative AI and its applications
 
 ## Wednesday
-* Edge Impulse - training your own models
-* Final project introduction
+* [Edge Impulse](https://mltools.arduino.cc/) - requires Arduino login
+* [Picovoice.ai](https://picovoice.ai/) - requires BLE 33 Sense
+* [Magic wand tutorial](https://colab.research.google.com/drive/1qIksH9F7tEhctVACShWfVzTf-74r-_HY#scrollTo=oazLUtBqWzdJ) - [website](https://petewarden.github.io/magic_wand/website/index.html)
+* [Madgwick and orientation](https://editor.p5js.org/shfitz/sketches/mWayLHaLX)
+* [Final project](../assignments.md) introduction
 * **For Monday 11/20**
-  * Be ready to present your idea for a final project. What will you be doing? What will a user experience? Where are you going to be pushing your knowledge outside its usual boundaries? What challenedges do you anticipate? Write it up on your class journal
+  * Be ready to present your idea for a [final project](../assignments.md). What will you be doing? What will a user experience? Where are you going to be pushing your knowledge outside its usual boundaries? What challenedges do you anticipate? Write it up on your class journal.
 
 
 

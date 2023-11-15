@@ -7,7 +7,6 @@
 * [Junyoung Oh](https://wp.nyu.edu/tandonschoolofengineering-blinkingbeeping_jo2313_fa23/)
 * [adir](https://github.com/durrlanders/blinkingbeepingmoving)
 * [Christina W](https://wp.nyu.edu/tandonschoolofengineering-onlinejournalchristina/)
-* [Anne-Marie](https://www.notion.so/Blinking-Beeping-Moving-Sensing-e793f3cf646b4d0dbf18828d5359fd23)
 * [Christina B](https://christinabaeblinkingbeeping.blogspot.com/?m=1)
 * [Kevin](https://medium.com/@zc2590)
 * [Rebecca](https://wp.nyu.edu/rebeccaasencio__blinkingbeeping/)
@@ -16,3 +15,4 @@
 * [Mario](https://www.notion.so/Blinking-Beeping-Moving-Sensing-a9aeaa21c14f44d39a78e14d54dcf305)
 * [Nicholas](https://medium.com/@tf2228)
 * [Anagha](https://www.notion.so/148ec30ff13a4df8ad0ff0a7fea61acb?v=95a307bb08bb4f73b0a30444b9c08bb8)
+* [Anees](https://www.notion.so/Blinking-Beeping-Anees-Chopra-e9ab9296c4cd41948a221d2b7f32cf21?pvs=4)
