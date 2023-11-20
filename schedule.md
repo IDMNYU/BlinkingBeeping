@@ -61,6 +61,10 @@
 
 # Week 12 - Monday November 20 
 * Final project pitches
+* SD cards
+  * datalogger
+  * reading from files
+  * bitmaps
 
 # Week 13 - Monday November 27 & Wednesday November 29
 * final project one on one meetings
