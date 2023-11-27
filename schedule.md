@@ -68,8 +68,7 @@
   * datalogger
   * reading from files
   * bitmaps
-* RTC 
-* RFID
+* battery power
 * final project one on one meetings
 
 # Week 14 - Monday December 4 & Wednesday December 6
