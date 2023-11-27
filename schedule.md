@@ -61,12 +61,15 @@
 
 # Week 12 - Monday November 20 
 * Final project pitches
+
+# Week 13 - Monday November 27 & Wednesday November 29
+* What is a BOM?
 * SD cards
   * datalogger
   * reading from files
   * bitmaps
-
-# Week 13 - Monday November 27 & Wednesday November 29
+* RTC 
+* RFID
 * final project one on one meetings
 
 # Week 14 - Monday December 4 & Wednesday December 6

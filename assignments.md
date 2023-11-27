@@ -22,8 +22,8 @@ You should be able to draw on the skills we covered in class and show off what y
 You will have milestones each week to document and describe. 
 * Nov 21 - Project summary - what is the system, what does it do?
   * include sketches, imnages, prior examples and inspirations. Create a narrative and imaging acting it out (actually act it out in class too, you're all good with this)
-* Nov 28 - BOM - what are the materials you need, what is the knowledge you need
-* Dec 5 - beta version of the system due. Basic functionality and a prototype must be ready
+* Nov 29 - BOM - what are the materials you need, what is the knowledge you need
+* Dec 6 - beta version of the system due. Basic functionality and a prototype must be ready
 * Dec 13- final project and documentation due
 
 Document your work thoroughly online as you go. Include details of all phases of the project.
