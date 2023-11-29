@@ -57,10 +57,10 @@
 
 # [Week 11 - Monday November 13 & Wednesday November 15](week11/main.md)
 * machine learning on the BLE33
-* Final project proposals - Come up with a proposal for what you would like to do for a final project. 
+* [Final project proposals](https://idmnyu.github.io/BlinkingBeeping/assignments.html) - Come up with a proposal for what you would like to do for a final project. 
 
 # Week 12 - Monday November 20 
-* Final project pitches
+* [Final project pitches](https://idmnyu.github.io/BlinkingBeeping/assignments.html)
 
 # Week 13 - Monday November 27 & Wednesday November 29
 * What is a BOM?
@@ -70,9 +70,12 @@
 * battery power
 * [network connections](https://store-usa.arduino.cc/products/uno-r4-wifi?selectedStore=us)
 * final project one on one meetings
+* [BOM due](https://idmnyu.github.io/BlinkingBeeping/assignments.html)
 
 # Week 14 - Monday December 4 & Wednesday December 6
 * final project workshop
+* [Functional prototype of project due](https://idmnyu.github.io/BlinkingBeeping/assignments.html)
 
 # Week 15 - Monday December 11 & Wednesday December 13
-* Final project presentations
+* Triage
+* [Final project presentations and documentation due](https://idmnyu.github.io/BlinkingBeeping/assignments.html)
