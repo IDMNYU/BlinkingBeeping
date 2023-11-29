@@ -67,8 +67,8 @@
 * SD cards
   * datalogger
   * reading from files
-  * bitmaps
 * battery power
+* [network connections](https://store-usa.arduino.cc/products/uno-r4-wifi?selectedStore=us)
 * final project one on one meetings
 
 # Week 14 - Monday December 4 & Wednesday December 6
