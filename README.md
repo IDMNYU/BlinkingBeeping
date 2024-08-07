@@ -1,16 +1,16 @@
-## Blinking Beeping Moving Sensing DM-UY 4913 G
+## Blinking Beeping Moving Sensing DM-UY 4913 J
 
 **NYU Tandon School of Engineering**
 
 **Integrated Design & Media, Technology Culture and Society**
 
-Fall 2023 • 3 credit hrs
+Fall 2024 • 3 credit hrs
 
-_Instructor_:  [Scott Fitzgerald](http://ennuigo.com), shf220@nyu.edu 
+_Instructor_:  Scott Fitzgerald, shf220@nyu.edu 
 
-_Location_: M/W 10am-11:50am • 370 Jay Street Room 309
+_Location_: F 10am-1:50pm • 370 Jay Street Room 307
 
-_Office hours_:  [Mondays 2pm-4pm, 370 Jay Room 359 by appointment](https://calendar.app.google/wcYr7Xj8eB8wRJ5B9) 
+_Student hours_:  [By appointment Tuesdays 1p-4pm, 370 Jay Room 359](https://calendar.app.google/ia8VDXPwVMPNmJ5N7)
 
 _Course Website_: [https://idmnyu.github.io/BlinkingBeeping/](https://idmnyu.github.io/BlinkingBeeping)
 
@@ -110,4 +110,3 @@ If you are experiencing an illness or any other situation that might affect your
 
 ### **STATEMENT ON INCLUSION**
 The NYU Tandon School values an inclusive and equitable environment for all our students. I hope to foster a sense of community in this class and consider it a place where individuals of all backgrounds, beliefs, ethnicities, national origins, gender identities, sexual orientations, religious and political affiliations, and abilities will be treated with respect.  It is my intent that all students’ learning needs be addressed, and that the diversity that students bring to this class be viewed as a resource, strength and benefit.  If this standard is not being upheld, please feel free to speak with me.
-
