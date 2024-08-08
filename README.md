@@ -18,7 +18,7 @@ _Prerequisite_: None
 
 ### **Welcome to Blinking Beeping Moving Sensing!**
 
-This course is an intorductory course in physical computing, with a emphasis on unusual physical interaction- that is, input and output. We'll use microcontrollers, lights, speakers, buttons, sensors, and actuators like motors to physicalize digital processes, not just push a bunch of pixels on screen.  
+This course is an intorductory course in physical computing, with a emphasis on unusual physical interaction- that is, we'll be working with unique inputs and outputs. We'll use microcontrollers, lights, speakers, buttons, sensors, and actuators like motors to physicalize digital processes, not just push a bunch of pixels on screen. That said, at some point in time, you'll make a controller for software you write on your computer, so there will be some pushing that happens :)
 
 ### **COURSE GOALS**
 In this course, students will :
@@ -50,15 +50,15 @@ All readings will be provided as PDFs or online links.
 ##### Required Hardware
 You may wind up spending money on this course for sensors, actuators, equipment, etc. Always discuss your intentions with the instructor before purchasing anything.
 
-You'll have access to the majorit of things you will need, and there is a standard issue kit that you will have access to for the semester.
+You will need to purchase a microcontroller for the course - there is a recommended one, but many are suitable. Ask the instructor if you're unsure. 
 
-The IDM Design Lab will have a bunch of basics for you to work with : LEDs, wire, resistors, transistors, capacitors, etc. You are free to use these tools, but if you’re going to be building something of significant scope, you should get your own materials.
+You'll have access to the majority of things you will need. Specifically, the IDM Design Lab will have a bunch of basics for you to work with : LEDs, wire, resistors, transistors, capacitors, etc. You are free to use these tools, but if you’re going to be building something of significant scope, you should get your own materials.
 
 If you get really into prototyping with electronics, you can get some hand tools and other equipment, but again, it’s best to ask about what you need.
 
 ### **COMMUNICATING WITH THE PROFESSOR OUTSIDE OF CLASS**
 
-* EMAIL ME - however if your email is more than a paragraph we should probably be meeting in person.
+* EMAIL ME -  if your email is more than a paragraph we should probably be meeting in person.
 * Talk to me in person directly after class, come by office hours, or set up an appointment about issues and problems.
 
 ### **EVALUATION & GRADING**
