@@ -2,6 +2,7 @@
 * Class introductions
 * Ritual reading of the syllabus
 * Crash course on electricity and electronics
+* 555 timer party
 
 # [Week 2 - Fri September 13](week2/main.md)
 * Electricity basics
@@ -43,14 +44,14 @@
 * Presentations!
 * Serial examples
 * BLE and internal sensors
-* Assignment for 10/30
+* Assignment for 11/1
   * Create a sketch in the program of your choice that communicates with your microcontroller. Post a video of this on your blog. What are you making?
 
 # [Week 9 - Fri November 1](week9/main.md)
 * Presentations!
 * Serial communication results
 * Lots of LEDs
-* VOTE!
+* VOTE
  
 # [Week 10 - Fri November 8](week10/main.md)
 * presentations
