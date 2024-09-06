@@ -20,11 +20,11 @@ For your final, you are to demonstrate a fully physically interactive system tha
 You should be able to draw on the skills we covered in class and show off what you can do. This includes but is not limited to serial communication between a computer and a microcontroller, bluetooth communication, physical interaction design (is the interface understandanle, can anyone use this, is there a mapping between the interfavce and the system, is it repeatable, etc etc ),and physical construction (are the wires and electonics hidden from view, does it collapse when it is used).
 
 You will have milestones each week to document and describe. 
-* Nov 21 - Project summary - what is the system, what does it do?
+* Project summary - what is the system, what does it do?
   * include sketches, imnages, prior examples and inspirations. Create a narrative and imaging acting it out (actually act it out in class too, you're all good with this)
-* Nov 29 - BOM - what are the materials you need, what is the knowledge you need
-* Dec 6 - beta version of the system due. Basic functionality and a prototype must be ready
-* Dec 13- final project and documentation due
+* BOM - what are the materials you need, what is the knowledge you need
+* beta version of the system due. Basic functionality and a prototype must be ready
+* final project and documentation due
 
 Document your work thoroughly online as you go. Include details of all phases of the project.
 

@@ -1,5 +1,3 @@
-You will have materials provided for use for class, but you'll probably get your own thigs too ;)
-
 **Pages and things that will be useful for class**
 * [tinkercad](https://www.tinkercad.com/) - 3d modeling, virtual circuit design and arduio simulation
 * [circuits.io](https://library.io/) - Create circuit boards for production 
@@ -28,7 +26,8 @@ You will have materials provided for use for class, but you'll probably get your
 * [Electronic Goldmine](https://www.goldmine-elec-products.com/)
 
 **General Resources**
-* [ITP Physical computing site](http://itp.nyu/edu/physcomp)
+* [IDM Electronics site](http://wp.nyu.edu/electronics)
+* [ITP Physical computing site](http://itp.nyu.edu/physcomp)
 * [Arduino](http://arduino.cc)
 * [Adafruit learning system- Arduino](https://learn.adafruit.com/category/learn-arduino) 
 * [Fritzing](https://fritzing.org/home/)
