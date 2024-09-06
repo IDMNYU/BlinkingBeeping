@@ -1,7 +1,7 @@
 # [Week 1 - Fri September 6](week1.md)
 * Class introductions
 * Ritual reading of the syllabus
-* Crash course on electricity and electronics
+* Crash course on [electricity and electronics](week1/notes.md)
 * [buttons and switches](week3/switches.md)
 
 # [Week 2 - Fri September 13]()
