@@ -2,6 +2,8 @@
 
 Using a 555 chip, you're going to build an organ that will produce a different tone based off the button that is pressed.
 
+The 555 is set up as an astable vibrator - its output changes frequency determined by the resistors and capacitors connected to pins 2, 6, and 7. Because the resistrs are set up in series as a ladder, each has a different amount of resistance in total even if they have the same value. The voltage going into the chip dtrmines how quickly the capacitor discharges changing the frequency of the sound. The higher the resistance, the lower the frequency.
+
 ![Organ Schematic](https://www.555-timer-circuits.com/images/circuit-toy-organ-schematic.gif)
 
 ## The finished product

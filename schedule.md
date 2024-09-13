@@ -8,8 +8,7 @@
 * Review DIY switches
 * Demo presentation - the 555 timer
 * circuit schematics ctd
-  * Reading a datasheet
-* [Toy Organ on a breadboard](apc.md)
+* Toy Organ on a breadboard
 * solder demo 
 
 # [Week 3 - Fri September 20]()

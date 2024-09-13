@@ -7,3 +7,6 @@
 * [Henry](https://docs.google.com/document/d/1ZU35rytepvqipipK8-GA3FSE2zY55lsB71BZt50v8_8/edit#heading=h.25ld6ftzv9dk)
 * [Adam](https://adamabuhnyu.blogspot.com/)
 * [Dongeun](https://www.notion.so/invite/a2973fcba42a4495e1136b0643d4340a00c22f4a)
+* [CJ](https://sites.google.com/d/1G32sG7RxPXk0HLxursFPSLboD1n1cpvy/p/1AVNwHnnXIOZQHY9hD1z99Oqc7rjo8Ivw/edit?pli=1&authuser=1)
+* [Marco](https://marco-dmuy4913.blogspot.com/)
+* [Sinclair](https://sinclairbbms.cargo.site/)
