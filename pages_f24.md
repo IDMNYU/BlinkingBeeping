@@ -5,3 +5,5 @@
 * [Omar](https://wp.nyu.edu/tandonschoolofengineering-onadafall24bbsm/)
 * [Daphne](https://sites.google.com/nyu.edu/daphnecastrobbms/home?authuser=1)
 * [Henry](https://docs.google.com/document/d/1ZU35rytepvqipipK8-GA3FSE2zY55lsB71BZt50v8_8/edit#heading=h.25ld6ftzv9dk)
+* [Adam](https://adamabuhnyu.blogspot.com/)
+* [Dongeun](https://www.notion.so/invite/a2973fcba42a4495e1136b0643d4340a00c22f4a)
