@@ -1,2 +1,7 @@
 * [Jiesong](https://blog.naver.com/billieonair)
 * [Sara](https://sarahblinkingbeeping.substack.com/)
+* [Diba](https://readymag.website/u3128756565/4990551/)
+* [Kimmy](https://medium.com/@ks6605)
+* [Omar](https://wp.nyu.edu/tandonschoolofengineering-onadafall24bbsm/)
+* [Daphne](https://sites.google.com/nyu.edu/daphnecastrobbms/home?authuser=1)
+* [Henry](https://docs.google.com/document/d/1ZU35rytepvqipipK8-GA3FSE2zY55lsB71BZt50v8_8/edit#heading=h.25ld6ftzv9dk)

@@ -4,11 +4,13 @@
 * Crash course on [electricity and electronics](week1/notes.md)
 * [buttons and switches](week3/switches.md)
 
-# [Week 2 - Fri September 13]()
-* demo presentation
-* 555 timer party - toy organ
-* solder party
-* Some notes about parts
+# [Week 2 - Fri September 13](week2/main.md)
+* Review DIY switches
+* Demo presentation - the 555 timer
+* circuit schematics ctd
+  * Reading a datasheet
+* [Toy Organ on a breadboard](apc.md)
+* solder demo 
 
 # [Week 3 - Fri September 20]()
 * Presentations!
