@@ -11,7 +11,7 @@
 * Toy Organ on a breadboard
 * solder demo 
 
-# [Week 3 - Fri September 20]()
+# [Week 3 - Fri September 20](week3/main.md)
 * Presentations!
 * multimeters and other tools
 * what's a microcontroller anyhow and why would I use one?
