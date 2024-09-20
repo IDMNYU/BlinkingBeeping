@@ -13,20 +13,20 @@
 
 # [Week 3 - Fri September 20]()
 * Presentations!
-* 555 continued
 * multimeters and other tools
+* what's a microcontroller anyhow and why would I use one?
+* Hello World of microcontrollers
 
 # [Week 4 - Fri September 27]()
 * Presentations!
-* Let's see those switches
-* Hello World of microcontrollers
+* analog input
 * [digital input and output]()
 
 # [Week 5 - Fri October 4]()
 * Presentations!
 * discussion of reading
 * Show your work
-* analog input and output
+* analog output
 * silly scope
 * [Midterm intro]()
 
