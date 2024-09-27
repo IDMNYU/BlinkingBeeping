@@ -1,10 +1,9 @@
-# Week 5 - Friday Sept 27
-## Monday
+# Week 4 - Friday Sept 27
 * Presentation by Sarah & Diba
 * What happened in the last week?
 * [analog input & analog output](../week5/week5.md)
 * [midterm intro](../midterm.md) 
-* Homework -
+* _Homework_ -
   * Read 
     * [A Taxonomy of Tangible User interfaces](http://courses.ischool.berkeley.edu/i262/f13/readings_pdf/taxonomy.pdf)
     * [All about LEDs](https://learn.sparkfun.com/tutorials/light-emitting-diodes-leds/all)
