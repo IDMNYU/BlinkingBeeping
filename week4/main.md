@@ -11,3 +11,4 @@
     * [Phsyical Computing's Greatest Hits and Misses](https://www.tigoe.com/blog/category/physicalcomputing/176/)
   * Make - Build a love machine that identifies how compatible two people are with the microcontroller. Use analog sensors for this. Work in pairs. Document this in your journal and bring it to class.
   * Write - a short decription of your midterm idea. Draw a sketch of what the system will be, think about how someone will interact with it. Be prepared to discuss your proposal next week in class. 
+  * optional videos - [analog in/out playlist](https://www.youtube.com/watch?v=Tk1Cme4VNiE&list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH)
