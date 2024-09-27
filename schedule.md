@@ -16,18 +16,18 @@
 * multimeters and other tools
 * what's a microcontroller anyhow and why would I use one?
 * Hello World of microcontrollers
+* digital input and output
 
 # [Week 4 - Fri September 27]()
 * Presentations!
 * analog input
-* [digital input and output]()
+* analog output
+* silly scope
 
 # [Week 5 - Fri October 4]()
 * Presentations!
 * discussion of reading
 * Show your work
-* analog output
-* silly scope
 * [Midterm intro]()
 
 # [Week 6 - Fri October 11]()

@@ -11,3 +11,4 @@
 * [Sinclair](https://sinclairbbms.cargo.site/)
 * [Jonathan](https://wp.nyu.edu/tandonschoolofengineering-jongulflare/)
 * [Reese](https://medium.com/@rpl5644/reese-lienau-blinking-beeping-journal-c4c2d2b82467)
+* [Jeffrey](https://wp.nyu.edu/tandonschoolofengineering-beepingportfoliojeffreyguo/)
