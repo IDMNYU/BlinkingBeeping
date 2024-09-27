@@ -1,18 +1,13 @@
-# Week 4 - Monday Sept 23 & Wed Sept 25
-
+# Week 5 - Friday Sept 27
 ## Monday
-* check out your switches
-* [Arduino IDE, board definitions](week4.md)
-* [Digital Out, what's the deal with all those pins anyhow?](week4.md)
-* [Blink without delay](https://gist.github.com/shfitz/ebcdd885c6dba4117ea96217d6777b47)
-* **For Wednesday 9/25**
-* Readings- 
-  * [Read Prologue and Chapter 1, _Attractive Things Work Better_ from "Emotional Design" by Don Norman](https://ebookcentral-proquest-com.proxy.library.nyu.edu/lib/nyulibrary-ebooks/reader.action?docID=876410&ppg=16)
-  * What do you think of the three elements of design (visceral, behavorial, and reflective) Norman describes? Are they sufficient? Is it too much hair splitting? Write a brief entry in your blog on these.
-
-## Wednesday
-* [Example of a research presentation](tft.md)
-* [Digital Input](week4.md)
-* debouncing
-* **For Monday 10/2**
-  * Expand on the interaction from your switches from last week. Now that you can control more than one light and have different switches control different behaviors, combine your two switches into one system, or create a system that has multiple digital inputs and outputs. How can you make this more attractive to a user? Document your work on your blog.
+* Presentation by Sara a& Diba
+* What happened in the last week?
+* [analog input & analog output](../week5/week5.md)
+* [midterm intro](../midterm.md) 
+* Homework -
+  * Read -  [A Taxonomy of Tangible User interfaces](http://courses.ischool.berkeley.edu/i262/f13/readings_pdf/taxonomy.pdf)
+  * [All about LEDs](https://learn.sparkfun.com/tutorials/light-emitting-diodes-leds/all)
+  * [Notes on analog input and output](../week5/week5.md)
+  * [Phsyical Computing's Greatest Hits and Misses](https://www.tigoe.com/blog/category/physicalcomputing/176/)
+  * Make - Build a love machine that identifies how compatible two people are with the microcontroller. Use analog sensors for this. Work in pairs. Document this in your journal and bring it to class.
+  * Write - a short decription of your midterm idea. Draw a sketch of what the system will be, think about how someone will interact with it. Be prepared to discuss your proposal next week in class. 

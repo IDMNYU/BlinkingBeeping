@@ -18,17 +18,20 @@
 * Hello World of microcontrollers
 * digital input and output
 
-# [Week 4 - Fri September 27]()
+# [Week 4 - Fri September 27](week4/main.md)
 * Presentations!
+* reading discussion
+* show your work
 * analog input
 * analog output
-* silly scope
+* [Midterm intro](midterm.md)
 
 # [Week 5 - Fri October 4]()
 * Presentations!
 * discussion of reading
 * Show your work
-* [Midterm intro]()
+* silly scopes
+* servos and tone
 
 # [Week 6 - Fri October 11]()
 * Field Trip to Volvox Labs
