@@ -1,6 +1,6 @@
 # Week 5 - Friday Sept 27
 ## Monday
-* Presentation by Sara & Diba
+* Presentation by Sarah & Diba
 * What happened in the last week?
 * [analog input & analog output](../week5/week5.md)
 * [midterm intro](../midterm.md) 
