@@ -2,6 +2,7 @@
 * Presentation by Marco & Kimmy
 * Show your work
 * discussion of TUI reading
+  * [Dynamicland](https://dynamicland.org/)
 * Midterm idea discussion
 * [servos and tone](servos_and_tone.md)
 * oscilliscopes and other time based probes
