@@ -26,58 +26,55 @@
 * analog output
 * [Midterm intro](midterm.md)
 
-# [Week 5 - Fri October 4]()
+# [Week 5 - Fri October 4](week5/main.md)
 * Presentations!
 * discussion of reading
 * Show your work
 * silly scopes
 * servos and tone
 
-# [Week 6 - Fri October 11]()
+# Week 6 - Fri October 11
 * Field Trip to Volvox Labs
 
-# [Week 7 - Fri October 18]()
+# Week 7 - Fri October 18
 * Serial Communication
 * Midterm Presentations!
 * Assignments
   * Take home quiz
   * Observation Project.
  
-# [Week 8 - Fri October 25]()
+# Week 8 - Fri October 25
 * Presentations!
 * Serial examples
 * BLE and internal sensors
 * Assignment for 11/1
   * Create an application in the langiage of your choice that communicates with your microcontroller. Post a video of this on your blog. What are you making?
 
-# [Week 9 - Fri November 1]()
+# Week 9 - Fri November 1
 * Presentations!
 * Serial communication results
 * Lots of LEDs
-* VOTE
+* Vote if you can
  
-# [Week 10 - Fri November 8]()
+# Week 10 - Fri November 8
 * presentations
 * Motors and things that move
 
-# [Week 11 - Fri November 15]()
-* machine learning on the BLE33
-* [Final project proposals]() - Come up with a proposal for what you would like to do for a final project. 
+# Week 11 - Fri November 15
+* What is a BOM?
+* Final project proposals - Come up with a proposal for what you would like to do for a final project. 
+* battery power
+* network connections
 
 # Week 12 - Fri November 22 
-* [Final project pitches]()
-
-# Week 13 - Friday December 6
-* What is a BOM?
+* Final project pitches
 * SD cards
   * datalogger
   * reading from files
-* battery power
-* [network connections]()
-* final project one on one meetings
-* [BOM due]()
-* final project workshop
-* [Functional prototype of project due]()
+
+# Week 13 - Friday December 6
+* BOM due
+* Functional prototype of project due
 
 # Week 14 - Wednesday December 11
-* [Final project presentations and documentation due]()
+* Final project presentations and documentation due

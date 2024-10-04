@@ -80,4 +80,4 @@ void loop() {
   delay(15);                           // waits for the servo to get there
 }
 ```
-One thing to note about servos is that their wire color can vary. If you have a servo that has a black and red cable, you can safely assume red is power, black is ground, and the third wire is your signal. If you have one that's orange, red brown, I've found this is generally the proper wiring : red is 5v, brown is ground, and orange is the signal. If you have something different, search for the model number of the servo online, or look up something like "servo wires " + the colors of the wires.
+One thing to note about servos is that their wire color can vary. If you have a servo that has a black and red cable, you can safely assume red is power, black is ground, and the third wire is your signal. If you have one that's orange, red brown, I've found that, generally, the wiring is : red = 5v, brown = ground, and orange = signal. If you have something different, search for the model number of the servo online, or look up something like "servo wires " + the colors of the wires.

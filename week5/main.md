@@ -1,19 +1,16 @@
-# Week 5 - Monday October 2 & Wed October 4
-## Monday
-* Presentation by Lianna & Riley
-* how bout them switches?
-* analog input 
-* [midterm intro](../midterm.md)
-* Readings for Wed - 
-  * [Notes on analog input and output](week5.md)
-  * [Phsyical Computing's Greatest Hits and Misses](https://www.tigoe.com/blog/category/physicalcomputing/176/)
-
-## Wednesday
-* [analog output (PWM an LED)](week5.md)
-* [servo motors & libraries](servos_and_tone.md)
-* [tone()](servos_and_tone.md)
-* Homework -
-  * Read -  [A Taxonomy of Tangible User interfaces](http://courses.ischool.berkeley.edu/i262/f13/readings_pdf/taxonomy.pdf)
-  * [All about LEDs](https://learn.sparkfun.com/tutorials/light-emitting-diodes-leds/all)
-  * Build a love machine that identifies how compatible two people are with the microcontroller. Use analog sensors for this. Work in pairs. Document this in your journal and bring it to class.
-  * Write a short decription of your midterm idea. Draw a sketch of what the system will be, think about how someone will interact with it. Be prepared to discuss your proposal next week in class. 
+# Week 5 - Friday October 4
+* Presentation by Marco & Kimmy
+* Show your work
+* discussion of TUI reading
+* Midterm idea discussion
+* [servos and tone](servos_and_tone.md)
+* oscilliscopes and other time based probes
+  * Reading [How to use a digital oscilloscope](https://learn.sparkfun.com/tutorials/how-to-use-an-oscilloscope/all)
+* _Homework_ -
+  * Read 
+    * [A Taxonomy of Tangible User interfaces](http://courses.ischool.berkeley.edu/i262/f13/readings_pdf/taxonomy.pdf)
+  * Make 
+     * Work on your midterm, due in class October 18
+  * Write 
+     * short decription of your midterm project. Each member fo the group needs to write their own summary. This should include what you planned to do, what you actually made (these are not always the same!!), if you hit a wall anywhere in your capacity to make something, how you might expand on the work given more time and respurces, and what you would do differently if you started over.
+  * optional videos to watch - [servos and libraries](https://www.youtube.com/watch?v=nETu_RFHLUc&list=PLnkvii1uWBvGVXOz4owDTtIItr07wVluC)
