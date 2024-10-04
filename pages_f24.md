@@ -12,3 +12,6 @@
 * [Jonathan](https://wp.nyu.edu/tandonschoolofengineering-jongulflare/)
 * [Reese](https://medium.com/@rpl5644/reese-lienau-blinking-beeping-journal-c4c2d2b82467)
 * [Jeffrey](https://wp.nyu.edu/tandonschoolofengineering-beepingportfoliojeffreyguo/)
+* [Tai](https://www.notion.so/Blinking-Beeping-Moving-Sensing-107620bdd8c08071b362fe3dd4b491f3)
+* Prismo
+* Hang
