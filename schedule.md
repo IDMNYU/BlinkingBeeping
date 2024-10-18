@@ -36,15 +36,12 @@
 # Week 6 - Fri October 11
 * Field Trip to Volvox Labs
 
-# Week 7 - Fri October 18
-* Serial Communication
+# [Week 7 - Fri October 18](week6/main.md)
 * Midterm Presentations!
-* Assignments
-  * Take home quiz
-  * Observation Project.
  
 # Week 8 - Fri October 25
 * Presentations!
+* Serial Communication
 * Serial examples
 * BLE and internal sensors
 * Assignment for 11/1

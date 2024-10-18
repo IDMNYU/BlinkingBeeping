@@ -1,18 +1,11 @@
-# Week 6 - Tuesday October 10 & Wed October 11
-## Tuesday Oct 10
-* Presentations - Marshall & Lucia
-* show your work on compatability machines
-* midterm discussions
-* Homework 
-  * Continue to work on your midterm projects. Have specific questions for tomorrow.
-  * Reading [How to use a digital oscilloscope](https://learn.sparkfun.com/tutorials/how-to-use-an-oscilloscope/all)
-  
-## Wednesday Oct 11  
-* Presentations - Christina W. & Anagha
-* resistor ladders
-* knock sensors
+# Week 7 - Friday October 18
+* Midterm Presentations!
+* [In-class quiz (suprise)](https://forms.gle/Ept9GPSSNsSimDZBA) && Review
 * [sensor smoothing](https://docs.arduino.cc/built-in-examples/analog/Smoothing) with [arrays on Arduino](https://docs.arduino.cc/built-in-examples/control-structures/Arrays)
 * Oscilloscopes
-* Homework
-  * Midterm project - On Monday, be prepared to talk about where you are and if you need to make any changes prior to Wednesday from your initial proposal.
-  * Interface project. _Either_ sketch out a physical interface that controls an imagined screen-based project _or_ design (photoshop / illustrator / in code) a screen based acticity that controls a physical object. Poat this to your class journal.
+* Assignments
+  * Observation Project - Pick a piece of interactive technology that is used in public, used by multiple people (so like, a phone doesn't count - it's only used by one person at a time). Write down your assumptions as to how it's used, and describe the context in which it's being used. Watch people use it, preferably without them knowing they're being observed. Take notes on how they use it, what they do differently, what appear to be the difficulties, what appear to be the easiest parts. Record what takes the longest, what takes the least amount of time, and how long the whole transaction takes. 
+  * Reading [How to use a digital oscilloscope](https://learn.sparkfun.com/tutorials/how-to-use-an-oscilloscope/all)
+  
+
+
