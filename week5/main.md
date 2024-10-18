@@ -5,7 +5,6 @@
   * [Dynamicland](https://dynamicland.org/)
 * Midterm idea discussion
 * [servos and tone](servos_and_tone.md)
-* oscilliscopes and other time based probes
   * Reading [How to use a digital oscilloscope](https://learn.sparkfun.com/tutorials/how-to-use-an-oscilloscope/all)
 * _Homework_ -
   * Read 

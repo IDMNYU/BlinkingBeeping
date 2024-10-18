@@ -30,7 +30,6 @@
 * Presentations!
 * discussion of reading
 * Show your work
-* silly scopes
 * servos and tone
 
 # Week 6 - Fri October 11
@@ -41,15 +40,13 @@
  
 # Week 8 - Fri October 25
 * Presentations!
-* Serial Communication
-* Serial examples
-* Assignment for 11/1
-  * Create an application in the language of your choice that communicates with your microcontroller. Post a video of this on your blog. What are you making?
+* Asynchronous Serial Communication
 
 # Week 9 - Fri November 1
 * Presentations!
 * Serial communication results
-* Lots of LEDs
+* Synchronous communication examples (SPI, I2C)
+* other kinds of protocols
 * Vote if you are able
  
 # Week 10 - Fri November 8
