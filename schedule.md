@@ -43,15 +43,14 @@
 * Presentations!
 * Serial Communication
 * Serial examples
-* BLE and internal sensors
 * Assignment for 11/1
-  * Create an application in the langiage of your choice that communicates with your microcontroller. Post a video of this on your blog. What are you making?
+  * Create an application in the language of your choice that communicates with your microcontroller. Post a video of this on your blog. What are you making?
 
 # Week 9 - Fri November 1
 * Presentations!
 * Serial communication results
 * Lots of LEDs
-* Vote if you can
+* Vote if you are able
  
 # Week 10 - Fri November 8
 * presentations
