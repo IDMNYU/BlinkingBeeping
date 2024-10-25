@@ -44,10 +44,11 @@ function draw() {
       y = map(sensors[1], 0, 1023, 0, height);
 
       console.log(str);
-      if (sensors[2] == 0) {
-        fgColor = color(220, 100, 100);
+      if (sensors[2] == 1) {
+        fgColor = color(220, 100, 220);
       } else {
-        fgColor = color(220, 0, 0);
+        fgColor = color(0, 0, 0);
+        background(bgColor);
       }
     }
 
@@ -63,9 +64,9 @@ function draw() {
 
 
   noStroke();
-  background(bgColor);
+  
   fill(fgColor);
-  ellipse(x, y, 100);
+  ellipse(x, y, 50);
 
 
   // changes button label based on connection status

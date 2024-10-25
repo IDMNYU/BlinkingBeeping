@@ -60,7 +60,7 @@ function draw() {
 // "Arduino"
 function connectBtnClick() {
   if (!port.opened()) {
-    port.open('Arduino', 57600);
+    port.open('Arduino', 9600);
   } else {
     port.close();
   }
@@ -82,7 +82,7 @@ function toggleAuto() {
 
 /*
 
-const int ledPin = 2;  // the pin that the LED is attached to
+const int ledPin = 3;  // the pin that the LED is attached to
 
 void setup() {
   // initialize the serial communication:

@@ -21,19 +21,18 @@ function setup() {
 }
 
 function draw() {
+
   // read serial bufffer
   let str = port.readUntil("\n");
-  // get rid of whitespace
-  str.trim();
   // if there's valid data
-  if (str.length > 0) {
+  if(str.length > 0){
     noStroke();
     fill(220, 100, 50);
     rect(0, 0, 250, 30);
     fill(20, 100, 100);
     text(str, c.width + 10, 20);
     stroke(20, 100, 100);
-    let v = map(str, 0, 1023, 0, height - 35);
+    let v = map(str, 0, 1024, 0, height - 35);
     line(xpos, height, xpos, height - v);
     xpos++;
   }
@@ -53,7 +52,7 @@ function draw() {
 // "Arduino"
 function connectBtnClick() {
   if (!port.opened()) {
-    port.open('Arduino', 57600);
+    port.open('Arduino', 9600);
   } else {
     port.close();
   }

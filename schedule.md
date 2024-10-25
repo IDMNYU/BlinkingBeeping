@@ -38,8 +38,8 @@
 # [Week 7 - Fri October 18](week6/main.md)
 * Midterm Presentations!
  
-# Week 8 - Fri October 25
-* Presentations!
+# [Week 8 - Fri October 25](week7/main.md)
+* Presentation by Tai
 * Asynchronous Serial Communication
 
 # Week 9 - Fri November 1
