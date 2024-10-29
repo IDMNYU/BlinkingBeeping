@@ -66,7 +66,7 @@ function draw() {
   noStroke();
   
   fill(fgColor);
-  ellipse(x, y, 50);
+  ellipse(x, y, 5);
 
 
   // changes button label based on connection status
