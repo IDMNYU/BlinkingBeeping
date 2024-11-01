@@ -46,7 +46,7 @@
 * Presentations!
 * Serial communication results
 * Synchronous communication examples (SPI, I2C)
-* other kinds of protocols
+* Lots of lights
 * Vote if you are able
  
 # Week 10 - Fri November 8
