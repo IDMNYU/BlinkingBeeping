@@ -19,3 +19,9 @@
   * Take 3 colors and make them look like 2
 * Reading : 
   * [Introduction to color mixing](https://www.animations.physics.unsw.edu.au/labs/colour-mixing/colour-mixing.html)
+* Watch : 
+  * A Brief Introduction to Debugging
+    * [Introduction & Part 1](https://vimeo.com/105069079)
+    * [Part 2](https://vimeo.com/105080476)
+    * [Part 3](https://vimeo.com/105086159)
+    * [Part 4](https://vimeo.com/106026297)
