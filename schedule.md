@@ -42,7 +42,7 @@
 * Presentation by Tai
 * Asynchronous Serial Communication
 
-# Week 9 - Fri November 1
+# [Week 9 - Fri November 1](week9/main.md)
 * Presentations!
 * Serial communication results
 * Synchronous communication examples (SPI, I2C)
