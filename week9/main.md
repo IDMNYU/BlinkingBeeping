@@ -13,7 +13,7 @@
   * [Geek Graffiti takes on NYC](https://www.wired.com/2006/04/geek-graffiti-takes-on-new-york/)
 
 * Assignment for 11/8
-  * create an arduino sketch that controls 60 discrete pixels using the neopixel library. Alternatively, if you have your own addressable LEDs, use those in a small scale project. Or use an LED matrix. Blind us. What are the frustrations, what are the joys of working with these devices? Post a video to your class site. Some suggestions include leveraging Josef Albers exercises listed here : https://aaeportal.com/?id=-20314 . Mirrors, glass, and other reflective surfaces may be helpful in this exercise.
+  * create an arduino sketch that controls more than 20 discrete pixels using the neopixel library. Use the setup on the 3rd floor of 370 Jay and docuemtn it on your site if you do not already have LEDs of your own. If you have your own addressable LEDs, use those in a small scale project. Or use an LED matrix. Blind us. What are the frustrations, what are the joys of working with these devices? Post a video to your class site. Some suggestions include leveraging Josef Albers exercises listed here : https://aaeportal.com/?id=-20314 . Mirrors, glass, and other reflective surfaces may be helpful in this exercise.
   * [Make one color look like 2](https://images.squarespace-cdn.com/content/v1/5046a85ae4b0593f98542825/1361312966325-QBO2BSA7MOA0WYPFZGMQ/L1050915.jpg?format=1500w)
   * Take three colors and make a fourth
   * Take 3 colors and make them look like 2
