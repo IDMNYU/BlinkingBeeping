@@ -43,14 +43,14 @@
 * Asynchronous Serial Communication
 
 # [Week 9 - Fri November 1](week9/main.md)
-* Presentations!
+* Presentation by Marco and Kimmy
 * Serial communication results
 * Synchronous communication examples (SPI, I2C)
 * Lots of lights
 * Vote if you are able
  
-# Week 10 - Fri November 8
-* presentations
+# [Week 10 - Fri November 8](week10/main.md)
+* presentation by Silver
 * Motors and things that move
 
 # Week 11 - Fri November 15
