@@ -56,7 +56,7 @@
 # Week 11 - Fri November 15
 * CJ & Jon present
 * Final project proposal discussion
-* Bluetooth
+* [Bluetooth](https://wp.nyu.edu/electronics/bluetooth-with-ble/)
   * [Madgwick and orientation](https://editor.p5js.org/shfitz/sketches/mWayLHaLX)
 
 # Week 12 - Fri November 22 
