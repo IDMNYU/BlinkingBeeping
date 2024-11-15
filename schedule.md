@@ -54,19 +54,19 @@
 * Motors and things that move
 
 # Week 11 - Fri November 15
-* What is a BOM?
-* Final project proposals - Come up with a proposal for what you would like to do for a final project. 
-* battery power
-* network connections
+* CJ & Jon present
+* Final project proposal discussion
+* Bluetooth
+  * [Madgwick and orientation](https://editor.p5js.org/shfitz/sketches/mWayLHaLX)
 
 # Week 12 - Fri November 22 
-* Final project pitches
+* BOM
 * SD cards
   * datalogger
   * reading from files
 
 # Week 13 - Friday December 6
-* BOM due
+* Adam & Omar present
 * Functional prototype of project due
 
 # Week 14 - Wednesday December 11
