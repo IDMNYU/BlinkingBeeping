@@ -55,19 +55,19 @@
 
 # Week 11 - Fri November 15
 * CJ & Jon present
-* Final project proposal discussion
+* [Final project](final.md) proposal discussion
 * [Bluetooth](https://wp.nyu.edu/electronics/bluetooth-with-ble/)
   * [Madgwick and orientation](https://editor.p5js.org/shfitz/sketches/mWayLHaLX)
 
 # Week 12 - Fri November 22 
-* BOM
+* [BOM](final.md)
 * SD cards
   * datalogger
   * reading from files
 
 # Week 13 - Friday December 6
 * Adam & Omar present
-* Functional prototype of project due
+* [Functional prototype of project due](final.md)
 
 # Week 14 - Wednesday December 11
-* Final project presentations and documentation due
+* [Final project presentations and documentation due](final.md)
