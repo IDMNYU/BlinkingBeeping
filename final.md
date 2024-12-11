@@ -9,11 +9,12 @@ You will have milestones each week to document and describe.
   * include sketches, imnages, prior examples and inspirations. Create a narrative and imaging acting it out (actually act it out in class too, you're all good with this). Your project description should be at least 200 words, and you need to include multiple shetches, renderings, and inages for what you propose to make.  
 * BOM - what are the materials you need, what is the knowledge you need - _Due Fri Nov 22_
 * beta version of the system due. Basic functionality and a prototype must be ready - _Due Fri Dec 6_
-* final project and documentation due - _Due Wed Dec 11_
-  * you will demo your project in class. As appropriate, other studnts should be able to use and interact with your project. On your class site you need to include the following information in a post (if working in pairs you can share the technical documentation, but each partner needs to write theirt own evaluation):
-    * Clear video illustrating the project working - all the functionality that is complete needs to be demonstrated. A 15 second out-of-frame/focus phone video is not sufficoent. This should be staged to show the interaction. You're all using your hands in your projects, use a tripod or film someone else using it.
+* final project _Due Wed Dec 11_ and documentation - _Due Fri Dec 13_
+  * You will demo your project in class. As appropriate, other students should be able to use and interact with your project. 
+  * On your class site you need to include the following information in a post (if working in pairs you can share the technical documentation, but each partner needs to write their own evaluation):
+    * Clear video illustrating the project working - all the functionality that is complete needs to be demonstrated. A 15 second out-of-frame/focus phone video is not sufficient. This should be staged to show the interaction. You're all using your hands in your projects, use a tripod or film someone else using it for good documentation.
     * A written description of the technical system.
-    * An illustration of your circuit schematic (include all the components and connections)
+    * An illustration of your circuit as a schematic or block diagram (include all the components and connections)
     * All your code as a text file or github repo (no screenshots)
     * A written evaluation of your project. Describe what you intended to do, what you actually made, what you would have done differently, articulate if you feel the project was successful or not and why, and what you learned about interaction design from this process. 
 
